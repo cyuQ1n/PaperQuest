@@ -1,0 +1,1055 @@
+[
+    {
+        "序号": 2,
+        "标题": "Photonic Quantum Receiver Attaining the Helstrom Bound",
+        "链接": "http://arxiv.org/abs/2410.21800v1",
+        "作者": [
+            "Aakash Warke",
+            "Janis Nötzel",
+            "Kan Takase",
+            "Warit Asavanant",
+            "Hironari Nagayoshi",
+            "Kosuke Fukui",
+            "Shuntaro Takeda",
+            "Akira Furusawa",
+            "Peter van Loock"
+        ],
+        "摘要": "We propose an efficient decomposition scheme for a quantum receiver that\nattains the Helstrom bound in the low-photon regime for discriminating binary\ncoherent states. Our method, which avoids feedback as used in Dolinar's case,\nbreaks down nonlinear operations into basic gates used in continuous-variable\nquantum computation. We account for realistic conditions by examining the\nimpact of photon loss and imperfect photon detection, including the presence of\ndark counts, while presenting squeezing as a technique to mitigate these noise\nsources and maintain the advantage over SQL. Our scheme motivates testing\nquantum advantages with cubic-phase gates and designing photonic quantum\ncomputers to optimize symbol-by-symbol measurements in optical communication.",
+        "分类": [
+            "quant-ph"
+        ],
+        "补充信息": "8 pages, 7 figures",
+        "日期": "2024-10-29T07:08:39+00:00",
+        "概述": "这篇文章提出了一个有效的分解方案，使量子接收器在低光子数条件下达到赫尔斯托姆 bound，用于区分二进制相干态。该方法避免了反馈操作，将非线性操作分解为连续变量量子计算的基本门。研究考虑了光子损失和不完美光子检测（包括暗计数）的影响，并采用挤压技术减轻噪声源，保持优于标准量子限制的优势。该方案激励使用三次相位门测试量子优势，并优化光通信中的符号-by-符号测量以设计光子量子计算机。",
+        "摘要译文": "我们提出了一种高效的分解方案，用于在低光子数情况下量子接收器实现了对二进制相干态进行区别的霍尔斯特姆极限。我们的方法避免了杜连曾方案中使用的反馈，将非线性操作分解为连续变量量子计算中使用的基本门。我们通过研究光子损失和不完美的光子检测（包括暗计数的存在）的影响，考虑了实际条件，同时介绍了挤压作为减少这些噪声源并保持相对于 SQL 优势的技术。我们的方案激励我们用三次相位门测试量子优势，并设计光子量子计算机以优化光学通信中的符号间测量。"
+    },
+    {
+        "序号": 1,
+        "标题": "Automated Vulnerability Detection Using Deep Learning Technique",
+        "链接": "http://arxiv.org/abs/2410.21968v1",
+        "作者": [
+            "Guan-Yan Yang",
+            "Yi-Heng Ko",
+            "Farn Wang",
+            "Kuo-Hui Yeh",
+            "Haw-Shiang Chang",
+            "Hsueh-Yi Chen"
+        ],
+        "摘要": "Our work explores the utilization of deep learning, specifically leveraging\nthe CodeBERT model, to enhance code security testing for Python applications by\ndetecting SQL injection vulnerabilities. Unlike traditional security testing\nmethods that may be slow and error-prone, our approach transforms source code\ninto vector representations and trains a Long Short-Term Memory (LSTM) model to\nidentify vulnerable patterns. When compared with existing static application\nsecurity testing (SAST) tools, our model displays superior performance,\nachieving higher precision, recall, and F1-score. The study demonstrates that\ndeep learning techniques, particularly with CodeBERT's advanced contextual\nunderstanding, can significantly improve vulnerability detection, presenting a\nscalable methodology applicable to various programming languages and\nvulnerability types.",
+        "分类": [
+            "cs.CR",
+            "cs.AI",
+            "cs.SE",
+            "D.2.4; D.2.5"
+        ],
+        "补充信息": "4 pages, 1 figures; Presented at The 30st International Conference on\n  Computational & Experimental Engineering and Sciences (ICCES2024)",
+        "日期": "2024-10-29T11:51:51+00:00",
+        "概述": "本文利用CodeBERT模型和深度学习技术（特别是LSTM），针对Python应用程序中的SQL注入漏洞进行自动化检测，解决了传统安全测试方法效率低下且容易出错的问题。该研究将源代码转换为向量表示，训练LSTM模型识别易受攻击的模式，并证明了该方法在精度、召回率和F1分数方面优于现有静态应用安全测试工具。研究表明，深度学习技术可以显著提高漏洞检测能力，具有广泛的应用前景。",
+        "摘要译文": "我们的研究利用深度学习，特别是利用CodeBERT模型，通过检测SQL注入漏洞来增强Python应用的代码安全测试。与传统的可能速度缓慢且易出错的安全测试方法不同，我们的方法将源代码转换为向量表示，并训练一个长短期记忆（LSTM）模型以识别易受攻击的模式。与现有的静态应用安全测试（SAST）工具相比，我们的模型展示了更优异的性能，实现了较高的精度、召回率和F1分数。研究表明，特别是在CodeBERT先进上下文理解能力的支持下，深度学习技术能够显著提高漏洞检测能力，提供一种可扩展的方法，适用于各种编程语言和漏洞类型。"
+    },
+    {
+        "序号": 0,
+        "标题": "Atom-light-correlated quantum interferometer with memory-induced phase comb",
+        "链接": "http://arxiv.org/abs/2410.23674v1",
+        "作者": [
+            "Wenfeng Huang",
+            "Xinyun Liang",
+            "Jie Zhao",
+            "Zeliang Wu",
+            "Keye Zhang",
+            "Chun-Hua Yuan",
+            "Yuan Wu",
+            "Bixuan Fan",
+            "Weiping Zhang",
+            "Liqing Chen"
+        ],
+        "摘要": "Precise phase measurements by interferometers are crucial in science for\ndetecting subtle changes, such as gravitational waves. However, phase\nsensitivity is typically limited by the standard quantum limit (SQL) with\nuncorrelated particles N. This limit can be surpassed using quantum\ncorrelations, but achieving high-quality correlations in large systems is\nchallenging. Here, we propose and demonstrate an atom-light hybrid quantum\ninterferometry whose sensitivity is enhanced beyond the SQL with atom-light\nquantum correlation and newly developed phase comb superposition via\natomic-memory-assisted multiple quantum amplification. Finally, a phase\nsensitivity beyond the SQL of up to $8.3\\pm 0.2$ dB is achieved, especially at\n$N=4 \\times10^{13}/s$, resulting in both atomic and optical phase sensitivities\nof $6\\times10^{-8} rad/\\sqrt{Hz}$. This technique can advance sensitive quantum\nmeasurements in various fields.",
+        "分类": [
+            "quant-ph"
+        ],
+        "补充信息": "11 pages, 3 figures",
+        "日期": "2024-10-31T06:49:22+00:00",
+        "概述": "这项研究旨在通过原子-光量子相关干涉仪提升精确相位测量的灵敏度，突破标准量子极限。研究通过原子记忆辅助的多量子放大和新开发的相位梳叠加，实现了原子和光学相位灵敏度分别达到$6 \\times 10^{-8} \\text{ rad}/\\sqrt{\\text{Hz}}$，相位灵敏度提高了8.3 dB，特别在$N=4 \\times 10^{13}/s$时表现突出，有助于提高各种敏感量子测量的准确性。",
+        "摘要译文": "精密干涉仪的相位测量在科学中对于检测细微变化（如引力波）至关重要。然而，这种测量的相位灵敏度通常受限于不相关粒子的常规量子极限（SQL）。这一极限可以通过利用量子关联来超越，但在大型系统中实现高质量的关联极具挑战性。在这里，我们提出了并演示了一种原子-光混合量子干涉测量方法，其通过原子记忆辅助的多重量子放大和新开发的相位梳叠加，灵敏度超越了SQL。最终，在 \\(N=4 \\times 10^{13}/s\\) 时实现了最高达 \\(8.3 \\pm 0.2\\) dB 的相位灵敏度，导致原子和光学相位灵敏度分别达到 \\(6 \\times 10^{-8} \\text{ rad}/\\sqrt{\\text{Hz}}\\)。这一技术可以推动各种领域敏感量子测量的发展。"
+    },
+    {
+        "序号": 3,
+        "标题": "An Actor-Critic Approach to Boosting Text-to-SQL Large Language Model",
+        "链接": "http://arxiv.org/abs/2410.22082v1",
+        "作者": [
+            "Ziyang Zheng",
+            "Haipeng Jing",
+            "Canyu Rui",
+            "Askar Hamdulla",
+            "Dong Wang"
+        ],
+        "摘要": "Text-To-SQL (T2S) conversion based on large language models (LLMs) has found\na wide range of applications, by leveraging the capabilities of LLMs in\ninterpreting the query intent expressed in natural language. Existing research\nfocuses on suitable representations for data schema and/or questions,\ntask-specific instructions and representative examples, and complicated\ninference pipelines. All these methods are empirical and task specific, without\na theoretical bound on performance. In this paper, we propose a simple,\ngeneral, and performance guaranteed T2S enhancement approach called\nActor-Critic (AC). Specifically, we design two roles using the same LLM: an\nActor to produce SQL queries and a Critic to evaluate the produced SQL. If the\nCritic believes the produced SQL is wrong, it notifies the Actor to reproduce\nthe SQL and perform evaluation again. By this simple iterative process,\nexpected performance can be derived in theory. We conducted extensive\nexperiments on the Spider and related datasets with eleven LLMs, and\ndemonstrated that the Actor-Critic method consistently improves the performance\nof T2S, thus serving as a general enhancement approach for T2S conversion.",
+        "分类": [
+            "cs.DB",
+            "cs.CL",
+            "cs.HC"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-28T15:22:35+00:00",
+        "概述": "本文针对基于大型语言模型（LLMs）的文本到SQL（T2S）转换应用广泛但缺乏理论保证的问题，提出了一种Actor-Critic (AC) 方法。此方法利用同一个LLM分别扮演Actor和Critic两个角色，Actor生成SQL查询，Critic评估其正确性。如果Critic认为SQL错误则通知Actor重新生成。通过迭代过程，该方法能够理论性地提升T2S性能。实验表明AC方法能有效提升T2S的性能，成为一种通用的增强方法。",
+        "摘要译文": "基于大型语言模型（LLMs）的文本到SQL（T2S）转换在广泛的应用中找到了应用，通过利用LLMs在解释自然语言中表达的查询意图的能力。现有的研究主要集中在适合的数据模式和/or问题的表示、任务特定的说明和代表性示例，以及复杂的推理管道上。所有这些方法都是基于经验且任务特定的，并没有理论上的性能上限。在本文中，我们提出了一种简单、通用且具有性能保证的T2S增强方法，称为Actor-Critic（AC）。具体来说，我们使用同一个LLM设计了两个角色：一个Actor生成SQL查询，一个Critic评估生成的SQL。如果Criti\nc认为生成的SQL有误，它会通知Actor重新生成SQL并再次进行评估。通过这个简单的迭代过程，预期的性能可以在理论上得到推导。我们在Spider及其相关数据集上进行了广泛的实验，使用了十一种LLM，并证明了Actor-Critic方法能够一致地提高T2S的性能，从而作为一个通用的T2S转换增强方法。"
+    },
+    {
+        "序号": 4,
+        "标题": "MoMQ: Mixture-of-Experts Enhances Multi-Dialect Query Generation across Relational and Non-Relational Databases",
+        "链接": "http://arxiv.org/abs/2410.18406v1",
+        "作者": [
+            "Zhisheng Lin",
+            "Yifu Liu",
+            "Zhiling Luo",
+            "Jinyang Gao",
+            "Yu Li"
+        ],
+        "摘要": "The improvement in translating natural language to structured query language\n(SQL) can be attributed to the advancements in large language models (LLMs).\nOpen-source LLMs, tailored for specific database dialects such as MySQL, have\nshown great performance. However, cloud service providers are looking for a\nunified database manager service (e.g., Cosmos DB from Azure, Amazon Aurora\nfrom AWS, Lindorm from AlibabaCloud) that can support multiple dialects. This\nrequirement has led to the concept of multi-dialect query generation, which\npresents challenges to LLMs. These challenges include syntactic differences\namong dialects and imbalanced data distribution across multiple dialects. To\ntackle these challenges, we propose MoMQ, a novel Mixture-of-Experts-based\nmulti-dialect query generation framework across both relational and\nnon-relational databases. MoMQ employs a dialect expert group for each dialect\nand a multi-level routing strategy to handle dialect-specific knowledge,\nreducing interference during query generation. Additionally, a shared expert\ngroup is introduced to address data imbalance, facilitating the transfer of\ncommon knowledge from high-resource dialects to low-resource ones. Furthermore,\nwe have developed a high-quality multi-dialect query generation benchmark that\ncovers relational and non-relational databases such as MySQL, PostgreSQL,\nCypher for Neo4j, and nGQL for NebulaGraph. Extensive experiments have shown\nthat MoMQ performs effectively and robustly even in resource-imbalanced\nscenarios.",
+        "分类": [
+            "cs.CL",
+            "cs.AI",
+            "cs.DB",
+            "cs.LG"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-24T03:42:43+00:00",
+        "概述": "本文针对多方言查询生成在关系型和非关系型数据库中的挑战，提出了一种新颖的MoMQ框架。动机是当前开源大语言模型虽然在特定数据库方言上表现出色，但难以支持多种方言。MoMQ使用专家团队处理方言特异性知识，并引入共享专家团队解决数据不平衡问题。实验结果表明，MoMQ在资源不平衡场景下表现有效且稳健。",
+        "摘要译文": "自然语言到结构化查询语言（SQL）的翻译改进可以归因于大规模语言模型（LLMs）的进步。针对特定数据库方言（如MySQL）进行定制的开源LLMs表现出色。然而，云服务提供商们正在寻找一种统一的数据库管理服务（例如Azure的Cosmos DB、AWS的Amazon Aurora和阿里云的Lindorm），能够支持多种方言。这一需求催生了多方言查询生成的概念，这给LLMs带来了挑战。这些挑战包括方言之间的语法差异以及多种方言之间的数据分布不平衡。为应对这些挑战，我们提出了MoMQ，这是一种新型的基于Mixture-of-Experts的跨关系和非关系数据库的多方言查询生成框架。MoMQ为每种方言配备了方言专家组，并采用多层次路由策略来处理方言特定的知识，从而在查询生成过程中减少干扰。此外，我们还引入了一个共享专家组来解决数据不平衡的问题，促进了高资源方言与低资源方言之间共通知识的传递。此外，我们还开发了一个高质量的多方言查询生成基准，涵盖了MySQL、PostgreSQL、Neo4j的Cypher以及NebulaGraph的nGQL等多种数据库。广泛的实验表明，MoMQ即使在资源不平衡的场景下也能有效且稳健地工作。"
+    },
+    {
+        "序号": 5,
+        "标题": "Learning SQL from within: integrating database exercises into the database itself",
+        "链接": "http://arxiv.org/abs/2410.16120v1",
+        "作者": [
+            "Aristide Grange"
+        ],
+        "摘要": "SQL adventure builder (SQLab) is an open-source framework for creating SQL\ngames that are embedded within the very database they query. Students' answers\nare evaluated using query fingerprinting, a novel technique that allows for\nbetter feedback than traditional SQL online judge systems. Fingerprints act as\ntokens that are used to unlock messages encrypted in an isolated auxiliary\ntable. These messages may include hints, answer keys, examples, explanations,\nor narrative elements. They can also contain the problem statement of the next\ntask, which turns them into nodes in a virtual DAG with queries as edges. This\nmakes it possible to design a coherent adventure with a storyline of arbitrary\ncomplexity.\n  This paper describes the theoretical underpinnings of SQLab's query\nfingerprinting model, its implementation challenges, and its potential to\nimprove SQL education through game-based learning. The underlying concepts are\nfully cross-vendor, and support for SQLite, PostgreSQL and MySQL is already\navailable. As a proof of concept, two games, 30 exercises and one mock exam\nwere tested over a three-year period with about 300 students.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": "36 pages",
+        "日期": "2024-10-21T15:47:58+00:00",
+        "概述": "这篇论文介绍了一个名为SQLab的开放源代码框架，该框架将SQL游戏嵌入到查询的数据库中，通过查询指纹技术对学生答案进行评估，并提供更好的反馈。这种方法通过加密的信息节点形成一个虚拟的有向图，增强教育体验。研究包括理论基础、实施挑战和教育改进潜力，并在三个学年的测试中显示了有效性和可行性。",
+        "摘要译文": "SQL冒险构建器（SQLab）是一个开源框架，用于创建嵌入在查询其数据的数据库内的SQL游戏。学生的答案通过查询指纹技术进行评估，这是一种新颖的技术，相比传统的SQL在线评测系统能提供更好的反馈。查询指纹作为解锁隔离辅助表中加密信息的令牌，这些信息可能包括提示、答案密钥、示例、解释或故事情节。它们还可以包含下一个任务的问题描述，将它们转化为以查询为边的虚拟DAG中的节点。这使得设计一个具有任意复杂度的故事线的连贯冒险成为可能。\n\n本文描述了SQLab查询指纹模型的理论基础、其实现挑战以及其通过基于游戏的学习提高SQL教育的潜力。其底层概念完全跨供应商，支持SQLite、PostgreSQL和MySQL。作为概念验证，两项游戏、30项练习和一项模拟考试在为期三年的时间里由约300名学生进行了测试。"
+    },
+    {
+        "序号": 7,
+        "标题": "MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation",
+        "链接": "http://arxiv.org/abs/2410.12916v1",
+        "作者": [
+            "Satya Krishna Gorti",
+            "Ilan Gofman",
+            "Zhaoyan Liu",
+            "Jiapeng Wu",
+            "Noël Vouitsis",
+            "Guangwei Yu",
+            "Jesse C. Cresswell",
+            "Rasa Hosseinzadeh"
+        ],
+        "摘要": "Text-to-SQL generation enables non-experts to interact with databases via\nnatural language. Recent advances rely on large closed-source models like GPT-4\nthat present challenges in accessibility, privacy, and latency. To address\nthese issues, we focus on developing small, efficient, and open-source\ntext-to-SQL models. We demonstrate the benefits of sampling multiple candidate\nSQL generations and propose our method, MSc-SQL, to critique them using\nassociated metadata. Our sample critiquing model evaluates multiple outputs\nsimultaneously, achieving state-of-the-art performance compared to other\nopen-source models while remaining competitive with larger models at a much\nlower cost. Full code can be found at github.com/layer6ai-labs/msc-sql.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": "3rd Table Representation Learning Workshop at NeurIPS 2024",
+        "日期": "2024-10-16T18:03:24+00:00",
+        "概述": "该研究旨在开发小型、高效且开源的文本到SQL转换模型，解决大型模型带来的访问性、隐私和延迟问题。研究采用了多样本批评方法（MSc-SQL），通过利用元数据评估多个SQL生成候选，提高了模型的性能。与大型模型相比，该方法成本更低，性能更优，达到当今领先水平，并且开源代码可在github.com/layer6ai-labs/msc-sql找到。",
+        "摘要译文": "将文本转换为SQL查询的能力使非专家能够通过自然语言与数据库交互。近期的进展依赖于大型的封闭源代码模型，如GPT-4，这在可访问性、隐私和延迟方面提出了挑战。为了解决这些问题，我们专注于开发小型、高效且开源的文本转SQL模型。我们证明了采样多个候选SQL生成的优势，并提出了一种方法MSc-SQL，使用关联的元数据来批判这些生成结果。我们的批判模型评估多个输出，同时在性能上达到了最先进的水平，相比其他开源模型成本更低，但仍能与大型模型竞争。完整的代码可以在github.com/layer6ai-labs/msc-sql找到。"
+    },
+    {
+        "序号": 6,
+        "标题": "Learning Metadata-Agnostic Representations for Text-to-SQL In-Context Example Selection",
+        "链接": "http://arxiv.org/abs/2410.14049v1",
+        "作者": [
+            "Chuhong Mai",
+            "Ro-ee Tal",
+            "Thahir Mohamed"
+        ],
+        "摘要": "In-context learning (ICL) is a powerful paradigm where large language models\n(LLMs) benefit from task demonstrations added to the prompt. Yet, selecting\noptimal demonstrations is not trivial, especially for complex or multi-modal\ntasks where input and output distributions differ. We hypothesize that forming\ntask-specific representations of the input is key. In this paper, we propose a\nmethod to align representations of natural language questions and those of SQL\nqueries in a shared embedding space. Our technique, dubbed MARLO -\nMetadata-Agnostic Representation Learning for Text-tO-SQL - uses query\nstructure to model querying intent without over-indexing on underlying database\nmetadata (i.e. tables, columns, or domain-specific entities of a database\nreferenced in the question or query). This allows MARLO to select examples that\nare structurally and semantically relevant for the task rather than examples\nthat are spuriously related to a certain domain or question phrasing. When used\nto retrieve examples based on question similarity, MARLO shows superior\nperformance compared to generic embedding models (on average +2.9\\%pt. in\nexecution accuracy) on the Spider benchmark. It also outperforms the next best\nmethod that masks metadata information by +0.8\\%pt. in execution accuracy on\naverage, while imposing a significantly lower inference latency.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": "Accepted to NeurIPS 2024 Table Representation Learning workshop",
+        "日期": "2024-10-17T21:45:55+00:00",
+        "概述": "这篇论文旨在改进基于上下文学习（ICL）的文本到SQL转换任务中示例的选择。作者通过构建自然语言问题和SQL查询在共享嵌入空间中的对齐表示，提出了一种称为MARLO的方法。MARLO利用查询结构来建模查询意图，而不依赖于数据库的元数据。实验结果显示，MARLO在Spider基准测试上表现出更优的执行准确率（平均提高2.9个百分点），并且与掩蔽元数据信息的方法相比，在执行准确率上也有轻微提升（平均提高0.8个百分点），同时降低了推理延迟。",
+        "摘要译文": "在上下文学习（ICL）中，大型语言模型（LLMs）可以从添加到提示中的任务示范中受益。然而，选择最优示范并不容易，尤其是对于输入和输出分布不同的复杂或多模态任务。我们假设形成特定于任务的输入表示是关键。在本文中，我们提出了一种方法，将自然语言问题和SQL查询的表示在共享嵌入空间中对齐。我们的技术称为MARLO - 基于元数据的文本到SQL表示学习 - 使用查询结构来建模查询意图，而不过度依赖于底层数据库元数据（例如，数据库中的表、列或问题中引用的领域特定实体）。这使MARLO能够选择结构上和语义上与任务相关示例，而不是与特定领域或问题表述偶然相关的示例。在基于问题相似性检索示例时，与通用嵌入模型相比，MARLO在Spider基准上的执行准确性平均提高了+2.9个百分点。此外，与遮蔽元数据信息的最佳方法相比，MARLO在执行准确性上的平均提升为+0.8个百分点，而推断延迟显著较低。"
+    },
+    {
+        "序号": 8,
+        "标题": "Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs",
+        "链接": "http://dx.doi.org/10.1145/3698810",
+        "作者": [
+            "Wenjing Deng",
+            "Qiuyang Mang",
+            "Chengyu Zhang",
+            "Manuel Rigger"
+        ],
+        "摘要": "Spatial Database Management Systems (SDBMSs) aim to store, manipulate, and\nretrieve spatial data. SDBMSs are employed in various modern applications, such\nas geographic information systems, computer-aided design tools, and\nlocation-based services. However, the presence of logic bugs in SDBMSs can lead\nto incorrect results, substantially undermining the reliability of these\napplications. Detecting logic bugs in SDBMSs is challenging due to the lack of\nground truth for identifying incorrect results. In this paper, we propose an\nautomated geometry-aware generator to generate high-quality SQL statements for\nSDBMSs and a novel concept named Affine Equivalent Inputs (AEI) to validate the\nresults of SDBMSs. We implemented them as a tool named Spatter (Spatial DBMSs\nTester) for finding logic bugs in four popular SDBMSs: PostGIS, DuckDB Spatial,\nMySQL, and SQL Server. Our testing campaign detected 34 previously unknown and\nunique bugs in these SDBMS, of which 30 have been confirmed, and 18 have been\nalready fixed. Our testing efforts have been well appreciated by the\ndevelopers. Experimental results demonstrate that the geometry-aware generator\nsignificantly outperforms a naive random-shape generator in detecting unique\nbugs, and AEI can identify 14 logic bugs in SDBMSs that were overlooked by\nprevious methodologies.",
+        "分类": [
+            "cs.DB",
+            "cs.PL",
+            "cs.SE"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-17T20:23:09+00:00",
+        "概述": "本文旨在检测空间数据库管理系统（SDBMS）中的逻辑 bug，这些系统用于存储、处理和检索空间数据，如地理信息系统和基于位置的服务。由于缺乏正确结果的标准，检测逻辑 bug 非常困难。研究提出了一种几何感知的自动化生成器和一种新颖的概念 Affine Equivalent Inputs (AEI)，并在四个流行 SDBMS 中发现了 34 个新 bug，其中 30 个已确认并被修复。实验表明，几何感知生成器在检测独特 bug 方面显著优于随机形状生成器，而 AEI 能够识别之前方法忽略的 14 个逻辑 bug。",
+        "摘要译文": "空间数据库管理系统（SDBMSs）旨在存储、操作和检索空间数据。SDBMSs广泛应用于各种现代应用，如地理信息系统、计算机辅助设计工具和基于位置的服务。然而，SDBMS中存在的逻辑错误会导致错误结果，严重影响这些应用的可靠性。在SDBMS中检测逻辑错误极具挑战性，因为缺乏用于识别错误结果的真实标准。在本文中，我们提出了一种自动几何感知生成器，用于生成高质量的SQL语句以测试SDBMS，并引入了一个新颖的概念：仿射等价输入（AEI）来验证SDBMS的结果。我们将它们实现为一个名为Spatter（空间DBMS测试工具）的工具，用于在四个流行的SDBMS：PostGIS、DuckDB Spatial、MySQL和SQL Server中查找逻辑错误。我们的测试活动在这些SDBMS中检测到34个先前未知的独特错误，其中30个已得到确认，18个已被修复。我们的测试工作得到了开发人员的高度认可。实验结果表明，几何感知生成器在检测独特错误方面显著优于简单的随机形状生成器，而AEI能够识别出先前方法忽视的14个逻辑错误。"
+    },
+    {
+        "序号": 9,
+        "标题": "LR-SQL: A Supervised Fine-Tuning Method for Text2SQL Tasks under Low-Resource Scenarios",
+        "链接": "http://arxiv.org/abs/2410.11457v1",
+        "作者": [
+            "Wen Wuzhenghong",
+            "Zhang Yongpan",
+            "Pan Su",
+            "Sun Yuwei",
+            "Lu Pengwei",
+            "Ding Cheng"
+        ],
+        "摘要": "Large language models revolutionize Text2SQL through supervised fine-tuning,\nyet a crucial limitation is overlooked: the complexity of databases leads to an\nincreased context length, consequently resulting in higher GPU memory demands\nfor model fine-tuning. To address this issue, we propose LR-SQL. LR-SQL\ncomprises two supervised fine-tuning models: the schema\\_link model and the\nSQL\\_generation model, with the schema\\_link model serving as the focal point\nfor streamlining the overall process. During the fine-tuning of the\nschema\\_link model, LR-SQL breaks down the complete database into flexible\ncombinations of tables with adjustable quantities, enabling the model to learn\nthe relationships within the entire database from these dispersed slices.\nFurthermore, to enhance the model's ability to perceive the relationships among\nvarious discrete slices during inference, LR-SQL trains the model's\nChain-of-Thought capability for this task. Experimental results demonstrate\nthat LR-SQL can reduce the total GPU memory usage by 40\\% compared to existing\nfine-tuning methods, while only losing 2\\% of table prediction accuracy in\nschema\\_link task. For the overall Text2SQL task, the Execution Accuracy\ndecrease by 0.6\\%.Our project is now available on\nhttps://github.com/hongWin/LR-SQL",
+        "分类": [
+            "cs.DB",
+            "cs.AI",
+            "cs.CL",
+            "cs.IR"
+        ],
+        "补充信息": "12pages, 4 figures,submitting to a journal",
+        "日期": "2024-10-15T10:02:55+00:00",
+        "概述": "这项研究针对低资源场景下的Text2SQL任务，旨在解决数据库复杂性带来的高GPU内存需求问题。研究提出了LR-SQL方法，包括两个监督微调模型：schema_link模型和SQL_generation模型。schema_link模型特化处理，将数据库分解成灵活组合的可调整表，降低内存需求并保持预测准确性。实验结果表明，与现有方法相比，LR-SQL的GPU内存使用减少40%，仅牺牲2%的表预测准确性和0.6%的整体Text2SQL执行准确性。",
+        "摘要译文": "大型语言模型通过监督微调革新了Text2SQL，但一个关键局限被忽视了：数据库的复杂性导致了增加的上下文长度，从而增加了模型微调时的GPU内存需求。为了解决这个问题，我们提出了一种LR-SQL方法。LR-SQL包含两个监督微调模型：schema\\_link模型和SQL\\_generation模型，其中schema\\_link模型作为简化整个过程的重点。在schema\\_link模型的微调过程中，LR-SQL将完整的数据库分解为灵活的表组合，并可调整数量，从而使模型能够从这些分散的片段中学习整个数据库内的关系。此外，为了增强模型在推理过程中识别各种离散片段之间关系的能力，LR-SQL还训练了模型的Chain-of-Thought能力。实验结果表明，与现有微调方法相比，LR-SQL的总GPU内存使用量减少了40%，同时schema\\_link任务中的表预测准确性仅降低了2%。对于整体的Text2SQL任务，执行准确性降低了0.6%。我们的项目现在可以在https://github.com/hongWin/LR-SQL上获取。"
+    },
+    {
+        "序号": 10,
+        "标题": "Summarized Causal Explanations For Aggregate Views (Full version)",
+        "链接": "http://arxiv.org/abs/2410.11435v1",
+        "作者": [
+            "Brit Youngmann",
+            "Michael Cafarella",
+            "Amir Gilad",
+            "Sudeepa Roy"
+        ],
+        "摘要": "SQL queries with group-by and average are frequently used and plotted as bar\ncharts in several data analysis applications. Understanding the reasons behind\nthe results in such an aggregate view may be a highly non-trivial and\ntime-consuming task, especially for large datasets with multiple attributes.\nHence, generating automated explanations for aggregate views can allow users to\ngain better insights into the results while saving time in data analysis. When\nproviding explanations for such views, it is paramount to ensure that they are\nsuccinct yet comprehensive, reveal different types of insights that hold for\ndifferent aggregate answers in the view, and, most importantly, they reflect\nreality and arm users to make informed data-driven decisions, i.e., the\nexplanations do not only consider correlations but are causal. In this paper,\nwe present CauSumX, a framework for generating summarized causal explanations\nfor the entire aggregate view. Using background knowledge captured in a causal\nDAG, CauSumX finds the most effective causal treatments for different groups in\nthe view. We formally define the framework and the optimization problem, study\nits complexity, and devise an efficient algorithm using the Apriori algorithm,\nLP rounding, and several optimizations. We experimentally show that our system\ngenerates useful summarized causal explanations compared to prior work and\nscales well for large high-dimensional data",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-15T09:37:26+00:00",
+        "概述": "本文旨在为复杂的分组和平均查询生成自动化的因果解释，以帮助用户更好地理解数据分析结果并做出数据驱动的决策。CauSumX框架利用因果图（DAG）背景知识，为不同的分组提供最有效的因果解释，采用Apriori算法、LP松弛和优化技术解决了优化问题。实验表明，该系统能够生成有用且具因果性的总结解释，并适用于大规模高维数据。",
+        "摘要译文": "SQL查询中包含分组-by和平均值的操作在多个数据分析应用中被频繁使用并绘制为条形图。理解这种聚合视图下结果背后的缘由可能是极为复杂和耗时的任务，尤其是在处理具有多个属性的大型数据集时。因此，为聚合视图生成自动化的解释可以使用户更好地理解结果，同时节省数据处理的时间。当为这些视图提供解释时，确保解释简洁而全面，揭示适用于视图中不同聚合答案的不同类型的洞察，并且最重要的是，这些解释反映了现实情况，帮助用户做出基于数据的明智决策，即解释不仅考虑相关性，而是因果关系。在本文中，我们提出了CauSumX框架，用于为整个聚合视图生成总结性的因果解释。利用因果DAG中捕获的背景知识，CauSumX找到视图中不同组的最有效因果治疗。我们形式化地定义了该框架和优化问题，研究了其复杂性，并设计了一个高效的算法，使用了Apriori算法、LP舍入以及几种优化方法。我们实验证明，与之前的工作相比，我们的系统能够为大型高维数据生成有用的总结性因果解释，并且能够很好地扩展。"
+    },
+    {
+        "序号": 12,
+        "标题": "Bosonic Entanglement and Quantum Sensing from Energy Transfer in two-tone Floquet Systems",
+        "链接": "http://arxiv.org/abs/2410.11158v1",
+        "作者": [
+            "Yinan Chen",
+            "Andreas Elben",
+            "Angel Rubio",
+            "Gil Refael"
+        ],
+        "摘要": "Quantum-enhanced sensors, which surpass the standard quantum limit (SQL) and\napproach the fundamental precision limits dictated by quantum mechanics, are\nfinding applications across a wide range of scientific fields. This quantum\nadvantage becomes particularly significant when a large number of particles are\nincluded in the sensing circuit. Achieving such enhancement requires\nintroducing and preserving entanglement among many particles, posing\nsignificant experimental challenges. In this work, we integrate concepts from\nFloquet theory and quantum information to design an entangler capable of\ngenerating the desired entanglement between two paths of a quantum\ninterferometer. We demonstrate that our path-entangled states enable sensing\nbeyond the SQL, reaching the fundamental Heisenberg limit (HL) of quantum\nmechanics. Moreover, we show that a decoding parity measurement maintains the\nHL when specific conditions from Floquet theory are\nsatisfied$\\unicode{x2013}$particularly those related to the periodic driving\nparameters that preserve entanglement during evolution. We address the effects\nof a priori phase uncertainty and imperfect transmission, showing that our\nmethod remains robust under realistic conditions. Finally, we propose a\nsuperconducting-circuit implementation of our sensor in the microwave regime,\nhighlighting its potential for practical applications in high-precision\nmeasurements.",
+        "分类": [
+            "quant-ph",
+            "cond-mat.mes-hall"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-15T00:48:01+00:00",
+        "概述": "本文旨在通过Floquet理论和量子信息的结合，设计一个纠缠生成器，以实现量子增强传感器的性能，超越标准量子限制并达到量子力学的基本海森堡极限。研究解决了粒子间纠缠难以维持的实验挑战。通过路径纠缠态和特定的Floquet条件，实验达到了海森堡极限，并在实际条件下依然保持稳健。最终提出了一种超导量子电路的实现方案，适用于高精度测量。",
+        "摘要译文": "量子增强传感器超越了标准量子限制（SQL），接近由量子力学规定的根本精密极限，已在广泛科学领域找到应用。当大量粒子被包含在传感回路中时，这种量子优势变得尤为重要。实现这种增强需要引入和保持大量粒子之间的纠缠，这提出了重大的实验挑战。在本工作中，我们结合 Floquet 理论和量子信息概念，设计了一个纠缠器，能够生成量子干涉仪两条路径之间的所需纠缠态。我们证明，我们的路径纠缠态能够超越 SQL，达到量子力学的基本海森堡极限（HL）。此外，我们展示了，在 Floquet 理论特定条件下进行解码奇偶测量可以保持 HL，尤其是在那些与保持演化过程中纠缠的相关周期驱动参数方面。我们还探讨了先验相位不确定性及传输不完美性的影响，表明我们的方法在现实条件下仍保持稳健。最后，我们提出了一种在微波区域实现我们传感器的超导回路方案，强调了其在高精度测量中的潜在实际应用价值。"
+    },
+    {
+        "序号": 11,
+        "标题": "Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2410.11371v1",
+        "作者": [
+            "Qihuang Zhong",
+            "Kunfeng Chen",
+            "Liang Ding",
+            "Juhua Liu",
+            "Bo Du",
+            "Dacheng Tao"
+        ],
+        "摘要": "Large Language Models (LLMs) have shown promising performance in text-to-SQL,\nwhich involves translating natural language questions into SQL queries.\nHowever, current text-to-SQL LLMs are computationally expensive and challenging\nto deploy in real-world applications, highlighting the importance of\ncompressing them. To achieve this goal, knowledge distillation (KD) is a common\napproach, which aims to distill the larger teacher model into a smaller student\nmodel. While numerous KD methods for autoregressive LLMs have emerged recently,\nit is still under-explored whether they work well in complex text-to-SQL\nscenarios. To this end, we conduct a series of analyses and reveal that these\nKD methods generally fall short in balancing performance and efficiency. In\nresponse to this problem, we propose to improve the KD with Imperfect Data,\nnamely KID, which effectively boosts the performance without introducing much\ntraining budget. The core of KID is to efficiently mitigate the\ntraining-inference mismatch by simulating the cascading effect of inference in\nthe imperfect training data. Extensive experiments on 5 text-to-SQL benchmarks\nshow that, KID can not only achieve consistent and significant performance\ngains (up to +5.83% average score) across all model types and sizes, but also\neffectively improve the training efficiency.",
+        "分类": [
+            "cs.CL",
+            "cs.DB"
+        ],
+        "补充信息": "Accepted to EMNLP2024 Findings",
+        "日期": "2024-10-15T07:51:00+00:00",
+        "概述": "该研究旨在通过知识蒸馏(KD)优化大型语言模型在文本到SQL转换任务中的性能和效率，解决现有模型计算成本高的问题。研究发现，现有KD方法在复杂文本到SQL场景中的表现不佳，提出了一种名为KID（Knowledge Distillation with Imperfect Data）的新方法，通过模拟训练数据中的推理级联效应来有效缓解训练-推理不匹配，从而在不增加太多训练预算的情况下提升模型性能和训练效率。实验结果显示，KID在5个文本到SQL基准测试中表现出显著的性能提升（平均得分提高5.83%），并且提高了训练效率。",
+        "摘要译文": "大型语言模型（LLMs）在文本到SQL任务上展示了 promising 的性能，该任务涉及将自然语言问题翻译成SQL查询。然而，当前的文本到SQL LLMs在计算上非常昂贵，并且在实际应用中难以部署，突显了压缩它们的重要性。为了实现这一目标，知识蒸馏（KD）是一种常见方法，其目标是将较大的教师模型压缩为较小的学生模型。尽管最近出现了许多针对自回归LLM的KD方法，但对于它们是否能在复杂的文本到SQL场景中有效工作仍知之甚少。为此，我们进行了一系列分析并揭示，这些KD方法通常在平衡性能和效率方面做得不够好。为应对这一问题，我们提出了一种利用不完美数据的知识蒸馏方法，即KID，它在不增加太多训练预算的情况下有效地提升了性能。KID的核心是通过模拟不完美训练数据中的推理级联效应来有效减轻训练推理不匹配的问题。在5个文本到SQL基准上的大量实验显示，KID不仅能够在所有模型类型和规模上实现一致且显著的性能提升（最高平均得分提升5.83%），而且还能有效提高训练效率。"
+    },
+    {
+        "序号": 13,
+        "标题": "PRACTIQ: A Practical Conversational Text-to-SQL dataset with Ambiguous and Unanswerable Queries",
+        "链接": "http://arxiv.org/abs/2410.11076v1",
+        "作者": [
+            "Mingwen Dong",
+            "Nischal Ashok Kumar",
+            "Yiqun Hu",
+            "Anuj Chauhan",
+            "Chung-Wei Hang",
+            "Shuaichen Chang",
+            "Lin Pan",
+            "Wuwei Lan",
+            "Henghui Zhu",
+            "Jiarong Jiang",
+            "Patrick Ng",
+            "Zhiguo Wang"
+        ],
+        "摘要": "Previous text-to-SQL datasets and systems have primarily focused on user\nquestions with clear intentions that can be answered. However, real user\nquestions can often be ambiguous with multiple interpretations or unanswerable\ndue to a lack of relevant data. In this work, we construct a practical\nconversational text-to-SQL dataset called PRACTIQ, consisting of ambiguous and\nunanswerable questions inspired by real-world user questions. We first\nidentified four categories of ambiguous questions and four categories of\nunanswerable questions by studying existing text-to-SQL datasets. Then, we\ngenerate conversations with four turns: the initial user question, an assistant\nresponse seeking clarification, the user's clarification, and the assistant's\nclarified SQL response with the natural language explanation of the execution\nresults. For some ambiguous queries, we also directly generate helpful SQL\nresponses, that consider multiple aspects of ambiguity, instead of requesting\nuser clarification. To benchmark the performance on ambiguous, unanswerable,\nand answerable questions, we implemented large language model (LLM)-based\nbaselines using various LLMs. Our approach involves two steps: question\ncategory classification and clarification SQL prediction. Our experiments\nreveal that state-of-the-art systems struggle to handle ambiguous and\nunanswerable questions effectively. We will release our code for data\ngeneration and experiments on GitHub.",
+        "分类": [
+            "cs.CL",
+            "cs.AI"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-14T20:36:35+00:00",
+        "概述": "本文针对现有的文本到SQL数据集和系统主要关注明确意图的可回答问题，而忽略了真实用户提出的模糊和不可回答的问题。研究构建了PRACTIQ数据集，包含灵感来源于实际用户问题的模糊和不可回答的对话式文本到SQL查询。方法上，通过分类模糊和不可回答的问题，生成多轮对话，并使用大语言模型基线测试这些类型问题的表现。结果显示最先进的系统在处理模糊和不可回答的问题时表现不佳。",
+        "摘要译文": "之前的文本到SQL数据集和系统主要关注意图清晰、可以解答的问题。然而，真实用户的问题往往含糊不清，有多重解释，或者由于缺乏相关信息而无法回答。在这项工作中，我们构建了一个名为PRACTIQ的实用对话文本到SQL数据集，包含受真实用户问题启发的含糊和无法回答的问题。我们首先通过研究现有的文本到SQL数据集，识别出了四种含糊问题类别和四种无法回答问题类别。然后我们生成了四轮对话：初始用户问题、助手请求澄清的回复、用户的澄清回复，以及助手的澄清SQL回复，包括自然语言解释的执行结果。对于一些含糊查询，我们直接生成了考虑多重含糊性的有用SQL回复，而不是请求用户澄清。为了在含糊、无法回答和可回答的问题上测试性能，我们使用各种大型语言模型（LLM）实现了基于LLM的基准。我们的方法包括两个步骤：问题类别分类和澄清SQL预测。我们的实验揭示了最先进的系统在处理含糊和无法回答的问题方面表现不佳。我们将发布用于数据生成和实验的代码到GitHub。"
+    },
+    {
+        "序号": 14,
+        "标题": "Evaluating SQL Understanding in Large Language Models",
+        "链接": "http://arxiv.org/abs/2410.10680v1",
+        "作者": [
+            "Ananya Rahaman",
+            "Anny Zheng",
+            "Mostafa Milani",
+            "Fei Chiang",
+            "Rachel Pottinger"
+        ],
+        "摘要": "The rise of large language models (LLMs) has significantly impacted various\ndomains, including natural language processing (NLP) and image generation, by\nmaking complex computational tasks more accessible. While LLMs demonstrate\nimpressive generative capabilities, there is an ongoing debate about their\nlevel of \"understanding,\" particularly in structured domains like SQL. In this\npaper, we evaluate the extent to which LLMs \"understand\" SQL by testing them on\na series of key SQL tasks. These tasks, such as syntax error detection, missing\ntoken identification, query performance prediction, query equivalence checking,\nand query explanation, assess the models' proficiency in recognition, context\nawareness, semantics, and coherence, which are essential skills for SQL\nunderstanding. We generate labeled datasets from well-known workloads, and\nevaluate the latest LLMs, focusing on how query complexity and syntactic\nfeatures influence performance. Our results indicate that while GPT4 excels at\ntasks requiring recognition and context, all models struggle with deeper\nsemantic understanding and coherence, especially in query equivalence and\nperformance estimation, revealing the limitations of current LLMs in achieving\nfull SQL comprehension.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": "12 pages conference submission",
+        "日期": "2024-10-14T16:20:36+00:00",
+        "概述": "本文旨在评估大型语言模型（LLMs）在SQL理解方面的水平，通过测试多项关键SQL任务，包括语法错误检测、缺失词识别、查询性能预测、查询等价检查和查询解释。研究生成了带有标签的数据集，评估了最新的LLMs在复杂性和语法特征影响下的性能。结果显示，尽管GPT4在需要识别和上下文的任务中表现较好，但所有模型在深层次语义理解和连贯性方面都存在局限，尤其是在查询等价性和性能估计方面。",
+        "摘要译文": "大型语言模型（LLMs）的兴起极大地影响了自然语言处理（NLP）和图像生成等领域，使其复杂的计算任务更加易操作。尽管LLMs展示了令人印象深刻的生成能力，但在结构化领域如SQL的理解水平上仍存在争议。在本文中，我们通过测试一系列关键的SQL任务来评估LLMs在SQL理解上的程度。这些任务，比如语法错误检测、缺失词项识别、查询性能预测、查询等价性检查和查询解释，评估了模型在识别、上下文意识、语义和连贯性等方面的能力，这些都是SQL理解所需的重要技能。我们从知名的工作负载中生成了带标签的数据集，并专注于最新LLM的性能评估，特别是查询复杂性和语法特征如何影响性能。我们的结果显示，虽然GPT4在需要识别和上下文的任务中表现突出，但所有模型在更深层次的语义理解和连贯性方面仍存在困难，尤其是在查询等价性和性能估计方面，表明当前LLM在实现完整SQL理解方面仍存在局限性。"
+    },
+    {
+        "序号": 16,
+        "标题": "Using off-the-shelf LLMs to query enterprise data by progressively revealing ontologies",
+        "链接": "http://arxiv.org/abs/2410.09244v1",
+        "作者": [
+            "C. Civili",
+            "E. Sherkhonov",
+            "R. E. K. Stirewalt"
+        ],
+        "摘要": "Ontologies are known to improve the accuracy of Large Language Models (LLMs)\nwhen translating natural language queries into a formal query language like SQL\nor SPARQL. There are two ways to leverage ontologies when working with LLMs.\nOne is to fine-tune the model, i.e., to enhance it with specific domain\nknowledge. Another is the zero-shot prompting approach, where the ontology is\nprovided as part of the input question. Unfortunately, modern enterprises\ntypically have ontologies that are too large to fit in a prompt due to LLM's\ntoken size limitations. We present a solution that incrementally reveals \"just\nenough\" of an ontology that is needed to answer a given question.",
+        "分类": [
+            "cs.DB",
+            "cs.AI"
+        ],
+        "补充信息": "5 pages",
+        "日期": "2024-10-11T20:41:04+00:00",
+        "概述": "本文研究了如何利用预制的大语言模型（LLMs）查询企业数据，通过逐步揭示本体信息。现代企业通常拥有规模超出LLM限制的本体，为此提出了一种新的方法，能够在不超出LLM token限制的情况下，逐步提供足够的本体信息以准确回答查询，从而改善查询的准确性和效率。",
+        "摘要译文": "本体已知可以提高大型语言模型（LLMs）将自然语言查询转换为正式查询语言（如SQL或SPARQL）的准确度。在使用LLMs时可以有两种方式利用本体。一种是微调模型，即在模型中加入特定领域的知识。另一种是零样本提示方法，其中本体作为输入问题的一部分提供。不幸的是，现代企业通常拥有的本体因其大小超出了LLM的token大小限制，无法完全包含在提示中。我们提出了一种解决方案，可以逐步揭示回答给定问题所需的“恰到好处”的本体部分。"
+    },
+    {
+        "序号": 15,
+        "标题": "Large Scale Longitudinal Experiments: Estimation and Inference",
+        "链接": "http://arxiv.org/abs/2410.09952v1",
+        "作者": [
+            "Apoorva Lal",
+            "Alexander Fischer",
+            "Matthew Wardrop"
+        ],
+        "摘要": "Large-scale randomized experiments are seldom analyzed using panel regression\nmethods because of computational challenges arising from the presence of\nmillions of nuisance parameters. We leverage Mundlak's insight that unit\nintercepts can be eliminated by using carefully chosen averages of the\nregressors to rewrite several common estimators in a form that is amenable to\nweighted-least squares estimation with frequency weights. This renders\nregressions involving arbitrary strata intercepts tractable with very large\ndatasets, optionally with the key compression step computed out-of-memory in\nSQL. We demonstrate that these methods yield more precise estimates than other\ncommonly used estimators, and also find that the compression strategy greatly\nincreases computational efficiency. We provide in-memory (pyfixest) and\nout-of-memory (duckreg) python libraries to implement these estimators.",
+        "分类": [
+            "econ.EM"
+        ],
+        "补充信息": "python libraries [1](https://github.com/py-econometrics/pyfixest)\n  [2](https://github.com/py-econometrics/duckreg)",
+        "日期": "2024-10-13T18:20:00+00:00",
+        "概述": "这篇文章的研究动机是解决大规模面板回归中存在的计算难题。传统方法因大量 nuisance 参数难以处理。研究者利用 Mundlak 的见解，通过选择性平均自变量来消除单位截距，将多种常见估计方法转换为可使用加权最小二乘法估计的形式，从而处理包含任意层次截距的大规模数据集。研究发现，这些方法比常用方法更精确，并且压缩策略极大地提高了计算效率。作者还提供了内存和非内存库（pyfixest 和 duckreg），以实现出这些估计器。",
+        "摘要译文": "由于存在数百万个次要参数导致的计算挑战，大规模随机实验很少使用面板回归方法进行分析。我们借鉴了Mundlak的观点，即通过使用精心选择的自变量的平均值来消除单位截距，将几种常见的估计方法重新编写为适合用加权最小二乘法进行估计的形式，其中频率权重起到了关键作用。这使得即使在非常大的数据集情况下，包含任意层截距的回归分析变得可行，并且该过程中的关键压缩步骤可以在内存外的SQL中计算。我们证明这些方法比其他常用估计方法提供了更精确的估计，并且发现压缩策略极大地提高了计算效率。我们提供了内存内（pyfixest）和内存外（duckreg）的Python库来实现这些估计器。"
+    },
+    {
+        "序号": 18,
+        "标题": "Cartographier des trajectoires maritimes incertaines du XVIII ème siècle",
+        "链接": "http://arxiv.org/abs/2410.13884v1",
+        "作者": [
+            "Christine Plumejeaud-Perreau",
+            "Bernard Pradines"
+        ],
+        "摘要": "This article presents how ship trajectories have been built from historical\nsources dealing with maritime trade in the 18th century. It first summarizes\nthe method for building the routes, and qualifying the uncertainty level linked\nto each of its segments. Then, it details how the geometries of these segments\nconnecting two successive stopovers were automatically calculated in order to\ndraw a map with maritime paths only. The algorithm, programmed with PL/SQL\nlanguage, is available under an open-source licence\n(https://gitlab.huma-num.fr/portic/porticapi). Finally, an online tool for\nquerying and mapping these routes with their associated level of uncertainty is\nexposed (http://shiproutes.portic.fr). We show its usefulness for historians,\nin particular for the control of the validity of built ship trajectories.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": "in French language",
+        "日期": "2024-10-10T08:09:09+00:00",
+        "概述": "本文介绍了一种利用18世纪航海贸易历史资料重建船只轨迹的方法。通过分析历史数据，确定每个航段的不确定性，并使用PL/SQL编程实现自动计算航段几何。最终开发了一个在线工具，可供查询和映射带有不确定度级别标记的船只轨迹，有助于历史学家验证重建的船只轨迹的有效性。",
+        "摘要译文": "本文展示了如何从18世纪的海上贸易历史资料中构建船只轨迹。首先总结了绘制航线的方法，并对每个段落的不确定性水平进行了评估。接着详细说明了如何自动计算连接两个连续停靠点的这些段落的几何形状，以便绘制仅包含海上路径的地图。该算法用PL/SQL语言编写，以开源许可证发布（https://gitlab.huma-num.fr/portic/porticapi）。最后，展示了可用于查询和绘制这些具有相关不确定程度的航线的在线工具（http://shiproutes.portic.fr）。我们展示了它对历史学家的实际 usefulness，特别是用于控制构建的船只轨迹的有效性。"
+    },
+    {
+        "序号": 17,
+        "标题": "Context-Aware SQL Error Correction Using Few-Shot Learning -- A Novel Approach Based on NLQ, Error, and SQL Similarity",
+        "链接": "http://arxiv.org/abs/2410.09174v1",
+        "作者": [
+            "Divyansh Jain",
+            "Eric Yang"
+        ],
+        "摘要": "In recent years, the demand for automated SQL generation has increased\nsignificantly, driven by the need for efficient data querying in various\napplications. However, generating accurate SQL queries remains a challenge due\nto the complexity and variability of natural language inputs. This paper\nintroduces a novel few-shot learning-based approach for error correction in SQL\ngeneration, enhancing the accuracy of generated queries by selecting the most\nsuitable few-shot error correction examples for a given natural language\nquestion (NLQ). In our experiments with the open-source Gretel dataset, the\nproposed model offers a 39.2% increase in fixing errors from the baseline\napproach with no error correction and a 10% increase from a simple error\ncorrection method. The proposed technique leverages embedding-based similarity\nmeasures to identify the closest matches from a repository of few-shot\nexamples. Each example comprises an incorrect SQL query, the resulting error,\nthe correct SQL query, and detailed steps to transform the incorrect query into\nthe correct one. By employing this method, the system can effectively guide the\ncorrection of errors in newly generated SQL queries. Our approach demonstrates\nsignificant improvements in SQL generation accuracy by providing contextually\nrelevant examples that facilitate error identification and correction. The\nexperimental results highlight the effectiveness of embedding-based selection\nin enhancing the few-shot learning process, leading to more precise and\nreliable SQL query generation. This research contributes to the field of\nautomated SQL generation by offering a robust framework for error correction,\npaving the way for more advanced and user-friendly database interaction tools.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": "Accepted for the 1st Workshop on GenAI and RAG Systems for Enterprise\n  @ CIKM 2024",
+        "日期": "2024-10-11T18:22:08+00:00",
+        "概述": "该研究针对自然语言查询（NLQ）生成准确SQL查询的挑战，提出了一种基于少样本学习的方法，通过嵌入相似度衡量，从错误示例库中选择最匹配的少样本错误纠正案例来增强生成查询的准确性。实验结果表明，该方法比单纯错误纠正提高了10%，比无错误纠正提高了39.2%。通过提供上下文相关示例，帮助错误识别和纠正，有效提高了SQL生成的准确性。",
+        "摘要译文": "近年来，自动SQL生成的需求显著增加，这主要是由于各种应用中高效数据查询的需要。然而，由于自然语言输入的复杂性和变化性，生成准确的SQL查询仍然是一个挑战。本文介绍了一种新颖的少量示例学习方法，用于SQL生成中的错误修正，通过为给定的自然语言问题（NLQ）选择最合适的少量示例错误修正例子来提高生成查询的准确性。在使用开源Gretel数据集的实验中，所提出模型比无错误修正的基础方法提高了39.2%的错误修正率，比简单的错误修正方法提高了10%。所提出的技术利用嵌入式相似性度量从少量示例库中识别最近匹配项。每个示例包含一个错误的SQL查询、产生的错误、正确的SQL查询以及将错误查询转换为正确查询的详细步骤。通过这种方法，系统可以有效地指导新生成的SQL查询中的错误修正。我们的方法通过提供上下文相关示例来显著提高SQL生成准确性，这些示例有助于错误识别和修正。实验结果突出显示了嵌入式选择在少量示例学习过程中的有效性，从而提高了SQL查询生成的准确性和可靠性。在自动SQL生成领域，这项研究通过提供一个稳健的错误修正框架，为更高级和用户友好的数据库交互工具铺平了道路。"
+    },
+    {
+        "序号": 19,
+        "标题": "IterGen: Iterative Structured LLM Generation",
+        "链接": "http://arxiv.org/abs/2410.07295v1",
+        "作者": [
+            "Shubham Ugare",
+            "Rohan Gumaste",
+            "Tarun Suresh",
+            "Gagandeep Singh",
+            "Sasa Misailovic"
+        ],
+        "摘要": "Large Language Models (LLMs) are widely used for tasks such as natural\nlanguage and code generation. Still, their outputs often suffer from issues\nlike privacy violations, and semantically inaccurate code generation. Current\nlibraries for LLM generation rely on left-to-right decoding without systematic\nsupport for backtracking, limiting the ability to correct or refine outputs\nmid-generation. To address this issue, we introduce IterGen, an intuitive\nframework for iterative, grammar-guided LLM generation that enables users to\nmove both forward and backward within the generated output based on grammar\nsymbols. By leveraging a symbol-to-position mapping, IterGen ensures efficient\nand structured generation while allowing for corrections during the process. We\ndemonstrate IterGen's effectiveness in two important applications: reducing\nprivacy leakage in LLM outputs and improving the accuracy of LLM-generated SQL\nqueries.\n  Our code is available at https://github.com/uiuc-arc/itergen",
+        "分类": [
+            "cs.SE",
+            "cs.LG",
+            "cs.PL"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-09T16:21:38+00:00",
+        "概述": "IterGen 是一种迭代的、基于文法指导的语言模型生成框架，旨在解决现有模型在隐私泄露和代码生成准确性方面的问题。通过引入前后移动的能力，IterGen 允许用户在生成过程中根据文法规则进行修正。该框架利用符号到位置的映射确保高效和结构化的生成。实验结果表明，IterGen 能有效减少语言模型输出的隐私泄露，并提高生成 SQL 查询的准确性。",
+        "摘要译文": "大型语言模型（LLMs）广泛用于自然语言和代码生成任务。然而，它们的输出常常存在隐私泄露和语义不准确的代码生成等问题。目前用于LLM生成的库依赖于从左到右的解码方式，缺乏系统性的回溯支持，限制了在生成过程中纠正或改进输出的能力。为了解决这一问题，我们提出了IterGen，这是一种直观的迭代、语法引导的LLM生成框架，允许用户基于语法符号在生成输出中向前和向后移动。通过利用符号到位置的映射，IterGen 确保生成高效且结构化的同时，允许在过程中进行修正。我们在两个重要应用中展示了IterGen的 effectiveness：减少LLM输出中的隐私泄露和提高LLM生成的SQL查询的准确性。\n我们的代码可在 https://github.com/uiuc-arc/itergen 获取。"
+    },
+    {
+        "序号": 21,
+        "标题": "Large Language Model Enhanced Text-to-SQL Generation: A Survey",
+        "链接": "http://arxiv.org/abs/2410.06011v1",
+        "作者": [
+            "Xiaohu Zhu",
+            "Qian Li",
+            "Lizhen Cui",
+            "Yongkang Liu"
+        ],
+        "摘要": "Text-to-SQL translates natural language queries into Structured Query\nLanguage (SQL) commands, enabling users to interact with databases using\nnatural language. Essentially, the text-to-SQL task is a text generation task,\nand its development is primarily dependent on changes in language models.\nEspecially with the rapid development of Large Language Models (LLMs), the\npattern of text-to-SQL has undergone significant changes. Existing survey work\nmainly focuses on rule-based and neural-based approaches, but it still lacks a\nsurvey of Text-to-SQL with LLMs. In this paper, we survey the large language\nmodel enhanced text-to-SQL generations, classifying them into prompt\nengineering, fine-tuning, pre-trained, and Agent groups according to training\nstrategies. We also summarize datasets and evaluation metrics comprehensively.\nThis survey could help people better understand the pattern, research status,\nand challenges of LLM-based text-to-SQL generations.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": "14 pages, 2 figures",
+        "日期": "2024-10-08T13:09:52+00:00",
+        "概述": "本文是对基于大规模语言模型（LLM）的文本到SQL生成技术的综述。研究动机在于总结LLM在文本到SQL任务中的应用，并分类为提示工程、微调、预训练和Agent组等方法。文章总结了相关数据集和评估指标，填补了现有研究中LLM驱动的文本到SQL生成领域的空白，帮助读者更好地理解该领域的现状和挑战。",
+        "摘要译文": "文本到SQL将自然语言查询转换为结构化查询语言（SQL）命令，使用户能够使用自然语言与数据库进行交互。本质上，文本到SQL任务是一个文本生成任务，其发展主要依赖于语言模型的变化。尤其随着大型语言模型（LLMs）的快速发展，文本到SQL的模式经历了显著变化。现有的综述工作主要集中在基于规则和神经网络的方法上，但仍缺乏对基于LLM的文本到SQL的研究综述。在本文中，我们回顾了增强型大型语言模型的文本到SQL生成，根据训练策略将其分类为提示工程、微调、预训练和代理组。我们还全面总结了数据集和评估指标。本文的综述可以帮助人们更好地理解基于LLM的文本到SQL生成的模式、研究状态和挑战。"
+    },
+    {
+        "序号": 20,
+        "标题": "Automating Data Science Pipelines with Tensor Completion",
+        "链接": "http://arxiv.org/abs/2410.06408v1",
+        "作者": [
+            "Shaan Pakala",
+            "Bryce Graw",
+            "Dawon Ahn",
+            "Tam Dinh",
+            "Mehnaz Tabassum Mahin",
+            "Vassilis Tsotras",
+            "Jia Chen",
+            "Evangelos E. Papalexakis"
+        ],
+        "摘要": "Hyperparameter optimization is an essential component in many data science\npipelines and typically entails exhaustive time and resource-consuming\ncomputations in order to explore the combinatorial search space. Similar to\nthis problem, other key operations in data science pipelines exhibit the exact\nsame properties. Important examples are: neural architecture search, where the\ngoal is to identify the best design choices for a neural network, and query\ncardinality estimation, where given different predicate values for a SQL query\nthe goal is to estimate the size of the output. In this paper, we abstract away\nthose essential components of data science pipelines and we model them as\ninstances of tensor completion, where each variable of the search space\ncorresponds to one mode of the tensor, and the goal is to identify all missing\nentries of the tensor, corresponding to all combinations of variable values,\nstarting from a very small sample of observed entries. In order to do so, we\nfirst conduct a thorough experimental evaluation of existing state-of-the-art\ntensor completion techniques and introduce domain-inspired adaptations (such as\nsmoothness across the discretized variable space) and an ensemble technique\nwhich is able to achieve state-of-the-art performance. We extensively evaluate\nexisting and proposed methods in a number of datasets generated corresponding\nto (a) hyperparameter optimization for non-neural network models, (b) neural\narchitecture search, and (c) variants of query cardinality estimation,\ndemonstrating the effectiveness of tensor completion as a tool for automating\ndata science pipelines. Furthermore, we release our generated datasets and code\nin order to provide benchmarks for future work on this topic.",
+        "分类": [
+            "cs.LG"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-08T22:34:08+00:00",
+        "概述": "这篇论文旨在通过张量补全技术自动化数据科学管道。研究动机是解决数据科学管道中耗时且资源密集的参数优化问题，如神经架构搜索和查询基数估计。方法是将这些任务抽象为张量补全问题，并引入领域启发式的调整和集成技术。结果表明，张量补全在各种数据集上的效果接近最佳，展示了其在自动化数据科学管道中的有效性，并提供了相关数据集和代码作为未来研究的基准。",
+        "摘要译文": "超参数优化是许多数据科学管道中的一个关键组成部分，通常需要耗时且资源密集型的计算来探索组合搜索空间。与此问题相似，数据科学管道中的其他关键操作也具有相同的特点。重要的例子包括：神经架构搜索，目标是识别神经网络的最佳设计选择；以及查询基数估计，给定SQL查询的不同谓词值，目标是估计输出的大小。在这篇论文中，我们将数据科学管道中的这些关键组件抽象出来，并将它们建模为张量补全的问题，其中搜索空间中的每个变量对应于张量的一个模式，目标是从少量观察到的条目中识别张量中所有缺失的条目，即所有变量值组合。为了实现这一目标，我们首先对现有的最先进的张量补全技术进行了全面的实验评估，并引入了领域启发式调整（如离散变量空间上的平滑性）和一种集成技术，该技术能够达到最先进的性能。我们广泛评估了现有和提出的方法，使用的数据集对应于（a）非神经网络模型的超参数优化，（b）神经架构搜索，以及（c）查询基数估计的各种变体，证明了张量补全作为自动化数据科学管道的工具的有效性。此外，我们发布了生成的数据集和代码，以便为未来在这方面的工作提供基准。"
+    },
+    {
+        "序号": 22,
+        "标题": "TableRAG: Million-Token Table Understanding with Language Models",
+        "链接": "http://arxiv.org/abs/2410.04739v1",
+        "作者": [
+            "Si-An Chen",
+            "Lesly Miculicich",
+            "Julian Martin Eisenschlos",
+            "Zifeng Wang",
+            "Zilong Wang",
+            "Yanfei Chen",
+            "Yasuhisa Fujii",
+            "Hsuan-Tien Lin",
+            "Chen-Yu Lee",
+            "Tomas Pfister"
+        ],
+        "摘要": "Recent advancements in language models (LMs) have notably enhanced their\nability to reason with tabular data, primarily through program-aided mechanisms\nthat manipulate and analyze tables. However, these methods often require the\nentire table as input, leading to scalability challenges due to the positional\nbias or context length constraints. In response to these challenges, we\nintroduce TableRAG, a Retrieval-Augmented Generation (RAG) framework\nspecifically designed for LM-based table understanding. TableRAG leverages\nquery expansion combined with schema and cell retrieval to pinpoint crucial\ninformation before providing it to the LMs. This enables more efficient data\nencoding and precise retrieval, significantly reducing prompt lengths and\nmitigating information loss. We have developed two new million-token benchmarks\nfrom the Arcade and BIRD-SQL datasets to thoroughly evaluate TableRAG's\neffectiveness at scale. Our results demonstrate that TableRAG's retrieval\ndesign achieves the highest retrieval quality, leading to the new\nstate-of-the-art performance on large-scale table understanding.",
+        "分类": [
+            "cs.CL",
+            "cs.AI",
+            "cs.IR",
+            "cs.LG"
+        ],
+        "补充信息": "Accepted to NeurIPS 2024",
+        "日期": "2024-10-07T04:15:02+00:00",
+        "概述": "本文提出TableRAG，一种用于表理解的检索增强生成（RAG）框架，以解决现有语言模型处理大型表格数据时的数据规模和位置偏差问题。TableRAG通过查询扩展和基于模式及单元格的检索，高效地提取关键信息并提供给语言模型，显著减少了提示长度并降低了信息损失。研究使用两个百万级表格数据集进行了评估，结果表明TableRAG在大规模表理解任务上达到了新的最佳性能。",
+        "摘要译文": "最近语言模型（LMs）在处理表格数据方面的进步主要通过程序辅助机制来实现，这些机制可以操作和分析表格。然而，这些方法通常需要将整个表格作为输入，这导致由于位置偏见或上下文长度限制而出现可扩展性挑战。为应对这些挑战，我们引入了TableRAG，这是一种专门用于基于LM的表格理解的检索增强生成（RAG）框架。TableRAG结合查询扩展与模式和单元格检索，以提取关键信息后再提供给LMs。这使得数据编码更加高效，检索更加精确，显著减少了提示长度并减少了信息丢失。我们从Arcade和BIRD-SQL数据集中开发了两个新的百万词基准测试，以全面评估TableRAG的大规模有效性。我们的结果显示，TableRAG的检索设计实现了最高的检索质量，从而在大规模表格理解上达到了新的领先性能。"
+    },
+    {
+        "序号": 23,
+        "标题": "Understanding the Effect of Algorithm Transparency of Model Explanations in Text-to-SQL Semantic Parsing",
+        "链接": "http://arxiv.org/abs/2410.16283v1",
+        "作者": [
+            "Daking Rai",
+            "Rydia R. Weiland",
+            "Kayla Margaret Gabriella Herrera",
+            "Tyler H. Shaw",
+            "Ziyu Yao"
+        ],
+        "摘要": "Explaining the decisions of AI has become vital for fostering appropriate\nuser trust in these systems. This paper investigates explanations for a\nstructured prediction task called ``text-to-SQL Semantic Parsing'', which\ntranslates a natural language question into a structured query language (SQL)\nprogram. In this task setting, we designed three levels of model explanation,\neach exposing a different amount of the model's decision-making details (called\n``algorithm transparency''), and investigated how different model explanations\ncould potentially yield different impacts on the user experience. Our study\nwith $\\sim$100 participants shows that (1) the low-/high-transparency\nexplanations often lead to less/more user reliance on the model decisions,\nwhereas the medium-transparency explanations strike a good balance. We also\nshow that (2) only the medium-transparency participant group was able to engage\nfurther in the interaction and exhibit increasing performance over time, and\nthat (3) they showed the least changes in trust before and after the study.",
+        "分类": [
+            "cs.IR",
+            "cs.AI",
+            "cs.CL",
+            "cs.HC",
+            "I.3.6"
+        ],
+        "补充信息": "15 pages, 18 figure, Preprint",
+        "日期": "2024-10-05T00:13:33+00:00",
+        "概述": "该研究旨在探索算法透明度对文本到SQL语义解析解释的影响，以提升用户对AI系统的信任。研究设计了不同透明度级别的模型解释，通过参与者实验发现，中等透明度的解释在用户依赖性、互动参与度和信任度方面表现最佳，既能减少用户对模型决策的依赖，又能促进用户长期性能提升且信任度稳定。",
+        "摘要译文": "解释AI的决策已成为培养用户对这些系统适当信任的关键。本文探讨了一种称为“文本到SQL语义解析”的结构化预测任务的解释，该任务将自然语言问题翻译成结构化查询语言（SQL）程序。在这个任务设定中，我们设计了三个级别的模型解释，每个级别暴露了不同程度的模型决策细节（称为“算法透明度”），并研究了不同模型解释如何可能对用户体验产生不同的影响。我们的研究显示了以下几点：（1）低/高透明度的解释通常会导致用户对模型决策的信任程度较低/较高，而中透明度的解释则达到了良好的平衡。（2）只有中透明度的参与者小组能够进一步参与交互，并随着时间展现出提高的性能。（3）他们在研究前后显示出最少的信任度变化。"
+    },
+    {
+        "序号": 24,
+        "标题": "A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development",
+        "链接": "http://arxiv.org/abs/2410.03580v1",
+        "作者": [
+            "Jesper Knapp",
+            "Klas Moberg",
+            "Yuchuan Jin",
+            "Simin Sun",
+            "Miroslaw Staron"
+        ],
+        "摘要": "Autonomous driving software generates enormous amounts of data every second,\nwhich software development organizations save for future analysis and testing\nin the form of logs. However, given the vast size of this data, locating\nspecific scenarios within a collection of vehicle logs can be challenging.\nWriting the correct SQL queries to find these scenarios requires engineers to\nhave a strong background in SQL and the specific databases in question, further\ncomplicating the search process. This paper presents and evaluates a pipeline\nthat allows searching for specific scenarios in log collections using natural\nlanguage descriptions instead of SQL. The generated descriptions were evaluated\nby engineers working with vehicle logs at the Zenseact on a scale from 1 to 5.\nOur approach achieved a mean score of 3.3, demonstrating the potential of using\na multi-model architecture to improve the software development workflow. We\nalso present an interface that can visualize the query process and visualize\nthe results.",
+        "分类": [
+            "cs.SE",
+            "cs.AI"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-04T16:38:27+00:00",
+        "概述": "本文提出了一种多模型方法，旨在改善自动驾驶软件开发中的视频数据检索问题。面对大量日志数据，工程师难以使用SQL查询高效地定位特定场景。该研究通过使用自然语言描述替代SQL查询，简化了搜索过程。Zenseact的工程师对此方法进行了评估，平均得分为3.3，表明该方法具有潜力改进软件开发流程。此外，还提供了一个可视化界面，用于展示查询过程和结果。",
+        "摘要译文": "自动驾驶软件每秒生成大量数据，软件开发组织将这些数据保存为日志，以便将来进行分析和测试。然而，鉴于数据量庞大，要在车辆日志集合中定位特定场景是极具挑战性的。编写正确的 SQL 查询以找到这些场景需要工程师具备强大的 SQL 和特定数据库背景，这进一步复杂化了搜索过程。本文介绍并评估了一种管道，允许通过自然语言描述而非 SQL 来搜索日志集合中的特定场景。生成的描述由在 Zenseact 处处理车辆日志的工程师在 1 到 5 的范围内进行评估。我们的方法获得了 3.3 的平均分，显示出使用多模架构改进软件开发工作流程的潜力。我们还展示了一个界面，可以可视化查询过程并可视化结果。"
+    },
+    {
+        "序号": 25,
+        "标题": "CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2410.01943v1",
+        "作者": [
+            "Mohammadreza Pourreza",
+            "Hailong Li",
+            "Ruoxi Sun",
+            "Yeounoh Chung",
+            "Shayan Talaei",
+            "Gaurav Tarlok Kakkar",
+            "Yu Gan",
+            "Amin Saberi",
+            "Fatma Ozcan",
+            "Sercan O. Arik"
+        ],
+        "摘要": "In tackling the challenges of large language model (LLM) performance for\nText-to-SQL tasks, we introduce CHASE-SQL, a new framework that employs\ninnovative strategies, using test-time compute in multi-agent modeling to\nimprove candidate generation and selection. CHASE-SQL leverages LLMs' intrinsic\nknowledge to generate diverse and high-quality SQL candidates using different\nLLM generators with: (1) a divide-and-conquer method that decomposes complex\nqueries into manageable sub-queries in a single LLM call; (2) chain-of-thought\nreasoning based on query execution plans, reflecting the steps a database\nengine takes during execution; and (3) a unique instance-aware synthetic\nexample generation technique, which offers specific few-shot demonstrations\ntailored to test questions.To identify the best candidate, a selection agent is\nemployed to rank the candidates through pairwise comparisons with a fine-tuned\nbinary-candidates selection LLM. This selection approach has been demonstrated\nto be more robust over alternatives. The proposed generators-selector framework\nnot only enhances the quality and diversity of SQL queries but also outperforms\nprevious methods. Overall, our proposed CHASE-SQL achieves the state-of-the-art\nexecution accuracy of 73.0% and 73.01% on the test set and development set of\nthe notable BIRD Text-to-SQL dataset benchmark, rendering CHASE-SQL the top\nsubmission of the leaderboard (at the time of paper submission).",
+        "分类": [
+            "cs.LG",
+            "cs.AI",
+            "cs.CL",
+            "cs.DB"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-02T18:41:35+00:00",
+        "概述": "CHASE-SQL 是一种用于提高文本到SQL转换任务的��型性能的新框架。它通过多智能体建模、分解复杂查询、基于查询执行计划的链式推理以及实例感知的合成示例生成，生成高质量的SQL候选查询。框架采用选择代理通过细调的二元选择LLM对候选查询进行排序，实现了比以往方法更好的性能。在BIRD基准数据集上，CHASE-SQL的执行准确率为73.0%，位居榜首。",
+        "摘要译文": "在应对大规模语言模型（LLM）在Text-to-SQL任务上的性能挑战时，我们引入了CHASE-SQL这一新的框架，采用了创新策略，在多智能体建模中利用测试时刻的计算能力以改善候选生成和选择。CHASE-SQL 利用LLM的内在知识，通过不同的LLM生成器生成多样化且高质量的SQL候选，具体包括：（1）一种分而治之的方法，通过单一LLM调用将复杂查询分解为可管理的子查询；（2）基于查询执行计划的逐步推理，反映了数据库引擎在执行过程中的步骤；（3）一种独特的实例感知合成示例生成技术，提供了针对测试问题的具体少样本演示。为了确定最佳候选，采用了一个选择智能体，它通过与微调过的二元候选选择LLM进行两两比较来对候选进行排名。这种选择方法已被证明比其他选择方法更稳定。我们提出的生成器-选择器框架不仅提高了SQL查询的质量和多样性，还在之前的各项方法上表现更佳。总体而言，我们提出的CHASE-SQL在著名的BIRD Text-to-SQL数据集基准测试集和开发集上实现了73.0%和73.01%的最佳执行精度，使CHASE-SQL成为排行榜上的顶级提交（提交论文时）。"
+    },
+    {
+        "序号": 28,
+        "标题": "Data Generation for Testing Complex Queries",
+        "链接": "http://arxiv.org/abs/2409.18821v1",
+        "作者": [
+            "Sunanda Somwase",
+            "Parismita Das",
+            "S. Sudarshan"
+        ],
+        "摘要": "Generation of sample data for testing SQL queries has been an important task\nfor many years, with applications such as testing of SQL queries used for data\nanalytics and in application software, as well as student SQL queries. More\nrecently, with the increasing use of text-to-SQL systems, test data is key for\nthe validation of generated queries. Earlier work for test data generation\nhandled basic single block SQL queries, as well as simple nested SQL queries,\nbut could not handle more complex queries. In this paper, we present a novel\ndata generation approach that is designed to handle complex queries, and show\nits effectiveness on queries for which the earlier XData approach is not as\neffective. We also show that it can outperform the state-of-the-art VeriEQL\nsystem in showing non-equivalence of queries.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-27T15:17:56+00:00",
+        "概述": "本文针对复杂SQL查询的测试数据生成问题，提出了一种新型数据生成方法。由于早期方法无法处理复杂查询，本文方法在复杂查询验证中表现出更优效果，甚至超越了当前最先进的VeriEQL系统。其动机在于支持文本到SQL系统的验证需求。",
+        "摘要译文": "生成用于测试SQL查询的样本数据一直是一项重要任务，应用场景包括数据科学中的SQL查询测试、应用程序软件中的SQL查询测试以及学生SQL查询测试。近年来，随着文本到SQL系统的广泛应用，测试数据成为了验证生成查询的关键。早期的测试数据生成工作能够处理基本的单块SQL查询和简单的嵌套SQL查询，但无法处理更复杂的查询。在本文中，我们提出了一种新颖的数据生成方法，旨在处理复杂查询，并展示了该方法在早期XData方法不那么有效的一些查询上的有效性。同时，我们也展示了该方法在验证查询的非等价性方面可以优于最先进的VeriEQL系统。"
+    },
+    {
+        "序号": 26,
+        "标题": "Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement",
+        "链接": "http://arxiv.org/abs/2410.01869v1",
+        "作者": [
+            "Shouvon Sarker",
+            "Xishuang Dong",
+            "Xiangfang Li",
+            "Lijun Qian"
+        ],
+        "摘要": "Text-to-SQLs enables non-expert users to effortlessly retrieve desired\ninformation from relational databases using natural language queries. While\nrecent advancements, particularly with Large Language Models (LLMs) like GPT\nand T5, have shown impressive performance on large-scale benchmarks such as\nBIRD, current state-of-the-art (SOTA) LLM-based Text-to-SQLs models often\nrequire significant efforts to develop auxiliary tools like SQL classifiers to\nachieve high performance. This paper proposed a novel approach that only needs\nSQL Quality Measurement to enhance LLMs-based Text-to-SQLs performance. It\nestablishes a SQL quality evaluation mechanism to assess the generated SQL\nqueries against predefined criteria and actual database responses. This\nfeedback loop enables continuous learning and refinement of model outputs based\non both syntactic correctness and semantic accuracy. The proposed method\nundergoes comprehensive validation on the BIRD benchmark, assessing Execution\nAccuracy (EX) and Valid Efficiency Score (VES) across various Text-to-SQLs\ndifficulty levels. Experimental results reveal competitive performance in both\nEX and VES compared to SOTA models like GPT4 and T5.",
+        "分类": [
+            "cs.DB",
+            "cs.AI",
+            "cs.SE"
+        ],
+        "补充信息": null,
+        "日期": "2024-10-02T17:21:51+00:00",
+        "概述": "这篇论文针对当前LLM基于的Text-to-SQL模型在扩展性和性能上存在的问题，提出了一种新的方法——通过SQL质量测量来提升LLM在生成SQL查询的性能。该方法建立了一种SQL质量评估机制，能够根据预定义标准和实际数据库响应反馈修正模型输出。实验结果表明，该方法在执行准确性和有效效率评分方面与GPT4和T5等SOTA模型相当。",
+        "摘要译文": "文本到SQL的功能使得非专家用户能够使用自然语言查询 effortless 地从关系型数据库中检索所需信息。虽然近期的进步，尤其是大型语言模型（LLMs）如GPT和T5，在大规模基准测试如BIRD中展现了令人印象深刻的性能，但当前最先进的LLM基文本到SQL模型通常需要开发诸如SQL分类器等辅助工具来实现高性能。本论文提出了一种新颖的方法，仅需SQL质量度量来提升基于LLM的文本到SQL性能。该方法建立了一种SQL质量评估机制，用于将生成的SQL查询与预定义标准和实际数据库响应进行对比评估。这种反馈循环使得模型输出能够在句法正确性和语义准确性基础上进行持续的学习和精炼。该提出的方法在BIRD基准上进行了全面验证，评估了执行准确性（EX）和有效效率评分（VES）在各种文本到SQL难度级别上的表现。实验结果表明，该方法在EX和VES上与GPT4和T5等最先进的模型具有竞争力。"
+    },
+    {
+        "序号": 27,
+        "标题": "From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems",
+        "链接": "http://arxiv.org/abs/2410.01066v1",
+        "作者": [
+            "Ali Mohammadjafari",
+            "Anthony S. Maida",
+            "Raju Gottumukkala"
+        ],
+        "摘要": "Since the onset of LLMs, translating natural language queries to structured\nSQL commands is assuming increasing. Unlike the previous reviews, this survey\nprovides a comprehensive study of the evolution of LLM-based text-to-SQL\nsystems, from early rule-based models to advanced LLM approaches, and how LLMs\nimpacted this field. We discuss benchmarks, evaluation methods and evaluation\nmetrics. Also, we uniquely study the role of integration of knowledge graphs\nfor better contextual accuracy and schema linking in these systems. The current\ntechniques fall into two categories: in-context learning of corpus and\nfine-tuning, which then leads to approaches such as zero-shot, few-shot\nlearning from the end, and data augmentation. Finally, we highlight key\nchallenges such as computational efficiency, model robustness, and data privacy\nwith perspectives toward their development and improvements in potential areas\nfor future of LLM-based text-to-SQL system.",
+        "分类": [
+            "cs.CL",
+            "cs.AI"
+        ],
+        "补充信息": "12 pages, 5 figures, 3 tables",
+        "日期": "2024-10-01T20:46:25+00:00",
+        "概述": "本文回顾了基于大语言模型（LLM）的自然语言到SQL转换系统的发展，从早期规则基模型到先进LLM方法。它讨论了基准测试、评估方法和指标，并特别研究了知识图谱的集成在提高上下文准确性和模式链接中的作用。当前技术分为上下文学习和微调两大类，包括零-shot和少-shot学习以及数据增强。文章指出了计算效率、模型鲁棒性和数据隐私等关键挑战，并展望了未来的研究方向。",
+        "摘要译文": "自大语言模型（LLM）问世以来，将自然语言查询转化为结构化的SQL命令正在变得越来越重要。与之前的综述不同，本综述提供了对LLM基于的文本到SQL系统从早期的规则基于模型到先进的LLM方法及其演变的全面研究，以及LLM对该领域的影響。我们讨论了基准测试、评估方法和评估指标。此外，我们还将知识图谱的集成作用独特地研究为了提高上下文准确性以及这些系统中的模式链接。当前的技术可以分为两类：基于语境的学习和微调，这随后导致了从末端进行零样本、少样本学习和数据扩充的方法。最后，我们强调了计算效率、模型稳健性以及数据隐私等关键挑战，并从发展和改进的角度展望了未来大语言模型基于的文本到SQL系统的潜力领域。"
+    },
+    {
+        "序号": 29,
+        "标题": "Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer",
+        "链接": "http://arxiv.org/abs/2409.17120v1",
+        "作者": [
+            "Benji Peng",
+            "Xuanhe Pan",
+            "Yizhu Wen",
+            "Ziqian Bi",
+            "Keyu Chen",
+            "Ming Li",
+            "Ming Liu",
+            "Qian Niu",
+            "Junyu Liu",
+            "Jinlang Wang",
+            "Sen Zhang",
+            "Jiawei Xu",
+            "Pohsun Feng"
+        ],
+        "摘要": "This book explores the role of Artificial Intelligence (AI), Machine Learning\n(ML), and Deep Learning (DL) in driving the progress of big data analytics and\nmanagement. The book focuses on simplifying the complex mathematical concepts\nbehind deep learning, offering intuitive visualizations and practical case\nstudies to help readers understand how neural networks and technologies like\nConvolutional Neural Networks (CNNs) work. It introduces several classic models\nand technologies such as Transformers, GPT, ResNet, BERT, and YOLO,\nhighlighting their applications in fields like natural language processing,\nimage recognition, and autonomous driving. The book also emphasizes the\nimportance of pre-trained models and how they can enhance model performance and\naccuracy, with instructions on how to apply these models in various real-world\nscenarios. Additionally, it provides an overview of key big data management\ntechnologies like SQL and NoSQL databases, as well as distributed computing\nframeworks such as Apache Hadoop and Spark, explaining their importance in\nmanaging and processing vast amounts of data. Ultimately, the book underscores\nthe value of mastering deep learning and big data management skills as critical\ntools for the future workforce, making it an essential resource for both\nbeginners and experienced professionals.",
+        "分类": [
+            "cs.CL",
+            "cs.LG"
+        ],
+        "补充信息": "This book contains 93 pages and 60 figures",
+        "日期": "2024-09-25T17:31:45+00:00",
+        "概述": "这本书旨在探索人工智能、机器学习和深度学习在推动大数据分析和管理进步中的作用。它简化了深度学习背后的复杂数学概念，通过直观的可视化和实际案例研究帮助读者了解神经网络和卷积神经网络等技术的工作原理。书中介绍了transformers、GPT、ResNet、BERT和YOLO等经典模型，并探讨了它们在自然语言处理、图像识别和自动驾驶等领域的应用。此外，书中还概述了SQL和NoSQL数据库以及Hadoop和Spark等分布式计算框架的关键技术，强调了预训练模型在提升模型性能和准确度方面的重要性。最终，该书强调掌握深度学习和大数据管理技能对于未来劳动力的重要性，成为初学者和专业人士的必备资源。",
+        "摘要译文": "本书探讨了人工智能（AI）、机器学习（ML）和深度学习（DL）在推动大数据分析与管理进步中的作用。书中重点简化了深度学习背后的复杂数学概念，通过直观的可视化和实际案例研究帮助读者理解神经网络及其如卷积神经网络（CNNs）等技术的工作原理。书中介绍了几种经典模型和技术，如变换器、GPT、ResNet、BERT和YOLO，并阐明了它们在自然语言处理、图像识别和自动驾驶等领域中的应用。此外，书中强调了预训练模型的重要性，以及它们如何提高模型性能和准确性，并提供如何在各种实际场景中应用这些模型的指导。书中还概述了关键的大数据管理技术，如SQL和NoSQL数据库，以及分布式计算框架如Apache Hadoop和Spark，并解释了它们在管理和处理大量数据方面的重要性。最终，本书强调掌握深度学习和大数据管理技能是未来劳动力的重要工具，使之成为初学者和有经验的专业人士不可或缺的参考资料。"
+    },
+    {
+        "序号": 32,
+        "标题": "DataGpt-SQL-7B: An Open-Source Language Model for Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2409.15985v1",
+        "作者": [
+            "Lixia Wu",
+            "Peng Li",
+            "Junhong Lou",
+            "Lei Fu"
+        ],
+        "摘要": "In addressing the pivotal role of translating natural language queries into\nSQL commands, we propose a suite of compact, fine-tuned models and self-refine\nmechanisms to democratize data access and analysis for non-expert users,\nmitigating risks associated with closed-source Large Language Models.\nSpecifically, we constructed a dataset of over 20K sample for Text-to-SQL as\nwell as the preference dateset, to improve the efficiency in the domain of SQL\ngeneration. To further ensure code validity, a code corrector was integrated\ninto the model. Our system, DataGpt-sql, achieved 87.2\\% accuracy on the\nspider-dev, respectively, showcasing the effectiveness of our solution in\ntext-to-SQL conversion tasks. Our code, data, and models are available at\n\\url{https://github.com/CainiaoTechAi/datagpt-sql-7b}",
+        "分类": [
+            "cs.AI"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-24T11:38:08+00:00",
+        "概述": "该研究旨在通过开发开源模型DataGpt-SQL-7B，解决非专业用户将自然语言查询转换为SQL命令的难题，提高数据访问和分析的便捷性。研究构建了超过20K的数据集，引入了代码校正机制，并展示了在Spider-dev上的87.2%准确率，证明了模型的有效性。",
+        "摘要译文": "在应对将自然语言查询转换为SQL命令的关键作用时，我们提出了一套紧凑且细调的模型以及自改进机制，以使非专家用户能够民主化地访问和分析数据，减轻与封闭源代码大型语言模型相关的风险。具体地，我们构建了一个超过2万个样本的Text-to-SQL数据集以及一个偏好数据集，以提高SQL生成领域的效率。为了进一步确保代码的有效性，我们将一个代码校正器集成到了模型中。我们的系统DataGpt-sql在spider-dev上达到了87.2%的准确性，展示了我们在文本到SQL转换任务中解决方案的有效性。我们的代码、数据和模型可在以下链接获取：\\url{https://github.com/CainiaoTechAi/datagpt-sql-7b}"
+    },
+    {
+        "序号": 31,
+        "标题": "SynTQA: Synergistic Table-based Question Answering via Mixture of Text-to-SQL and E2E TQA",
+        "链接": "http://arxiv.org/abs/2409.16682v2",
+        "作者": [
+            "Siyue Zhang",
+            "Anh Tuan Luu",
+            "Chen Zhao"
+        ],
+        "摘要": "Text-to-SQL parsing and end-to-end question answering (E2E TQA) are two main\napproaches for Table-based Question Answering task. Despite success on multiple\nbenchmarks, they have yet to be compared and their synergy remains unexplored.\nIn this paper, we identify different strengths and weaknesses through\nevaluating state-of-the-art models on benchmark datasets: Text-to-SQL\ndemonstrates superiority in handling questions involving arithmetic operations\nand long tables; E2E TQA excels in addressing ambiguous questions, non-standard\ntable schema, and complex table contents. To combine both strengths, we propose\na Synergistic Table-based Question Answering approach that integrate different\nmodels via answer selection, which is agnostic to any model types. Further\nexperiments validate that ensembling models by either feature-based or\nLLM-based answer selector significantly improves the performance over\nindividual models.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": "EMNLP 2024",
+        "日期": "2024-09-29T15:10:48+00:00",
+        "概述": "本文研究了表格问答任务中的文本到SQL解析和端到端问答（E2E TQA）两种主要方法，并提出了一种协同表格问答（SynTQA）方法。研究发现，文本到SQL在处理涉及算术运算和长表格的问答中优势明显，而E2E TQA在处理模糊问题、非标准表结构和复杂表格内容方面表现更佳。为结合两种方法的优势，作者提出了一种基于答案选择的综合模型集成方法。实验结果表明，通过对模型的特征或基于大语言模型的选择器集成，显著提升了表问答回答性能。",
+        "摘要译文": "基于表格的问答任务中，文本到SQL解析和端到端的问答（E2E TQA）是两种主要的方法。尽管在多个基准测试中取得了成功，但它们尚未进行比较，它们的协同效应也尚未被探索。在本文中，我们通过在基准数据集上评估最先进的模型来识别不同的优势和劣势：文本到SQL在处理涉及算术运算和长表格的问题上表现优越；而E2E TQA在处理含糊的问题、非标准的表结构和复杂的表内容上表现出色。为了结合两者的优势，我们提出了一种协同的基于表格的问答方法，该方法通过答案选择将不同的模型进行整合，且对任何模型类型都是无偏的。进一步的实验表明，无论是基于特征还是基于LLM的答案选择器进行模型集成，都可以显著提高性能。"
+    },
+    {
+        "序号": 30,
+        "标题": "E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2409.16751v1",
+        "作者": [
+            "Hasan Alp Caferoğlu",
+            "Özgür Ulusoy"
+        ],
+        "摘要": "Translating Natural Language Queries into Structured Query Language\n(Text-to-SQL or NLQ-to-SQL) is a critical task extensively studied by both the\nnatural language processing and database communities, aimed at providing a\nnatural language interface to databases (NLIDB) and lowering the barrier for\nnon-experts. Despite recent advancements made through the use of Large Language\nModels (LLMs), significant challenges remain. These include handling complex\ndatabase schemas, resolving ambiguity in user queries, and generating SQL\nqueries with intricate structures that accurately reflect the user's intent. In\nthis work, we introduce E-SQL, a novel pipeline specifically designed to\naddress these challenges through direct schema linking and candidate predicate\naugmentation. E-SQL enhances the natural language query by incorporating\nrelevant database items (i.e., tables, columns, and values) and conditions\ndirectly into the question, bridging the gap between the query and the database\nstructure. The pipeline leverages candidate predicate augmentation to mitigate\nerroneous or incomplete predicates in generated SQLs. We further investigate\nthe impact of schema filtering, a technique widely explored in previous work,\nand demonstrate its diminishing returns when applied alongside advanced large\nlanguage models. Comprehensive evaluations on the BIRD benchmark illustrate\nthat E-SQL achieves competitive performance, particularly excelling in complex\nqueries with a 66.29% execution accuracy on the test set. All code required to\nreproduce the reported results is publicly available on our GitHub repository.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-25T09:02:48+00:00",
+        "概述": "这项研究旨在通过增强自然语言查询直接关联数据库模式，解决复杂数据库查询中的不确定性问题。E-SQL通过引入候选谓词增强和相关数据库项，解决了生成复杂SQL查询的挑战。实验结果显示，E-SQL在复杂查询上表现优异，测试集执行准确率达到66.29%。",
+        "摘要译文": "将自然语言查询转换为结构化查询语言（Text-to-SQL 或 NLQ-to-SQL）是自然语言处理和数据库社区广泛研究的关键任务，旨在为数据库提供自然语言接口（NLIDB）并降低非专家的使用门槛。尽管通过使用大规模语言模型（LLMs）取得了近期进展，但仍面临许多挑战，包括处理复杂的数据库模式、解决用户查询中的歧义以及生成结构复杂且准确反映用户意图的SQL查询。在这项工作中，我们引入了E-SQL，这是一种专门设计的新管道，通过直接的模式链接和候选谓词扩展来应对这些挑战。E-SQL通过将相关数据库项（即，表、列和值）和条件直接融入问题中，增强了自然语言查询，从而弥合了查询与数据库结构之间的差距。该管道利用候选谓词扩展来缓解生成SQL中的错误或不完整谓词。我们还探讨了模式过滤的影响，这是一种在之前工作中广泛研究的技术，并证明当与高级大规模语言模型结合使用时，其效果会逐渐下降。在BIRD基准上的全面评估表明，E-SQL实现了竞争力的表现，特别是在复杂查询方面，在测试集上的执行准确率为66.29%。所有用于重现报告结果的代码均可在我们的GitHub仓库上公开获取。"
+    },
+    {
+        "序号": 33,
+        "标题": "Enhancing Text-to-SQL Capabilities of Large Language Models via Domain Database Knowledge Injection",
+        "链接": "http://arxiv.org/abs/2409.15907v1",
+        "作者": [
+            "Xingyu Ma",
+            "Xin Tian",
+            "Lingxiang Wu",
+            "Xuepeng Wang",
+            "Xueming Tang",
+            "Jinqiao Wang"
+        ],
+        "摘要": "Text-to-SQL is a subtask in semantic parsing that has seen rapid progress\nwith the evolution of Large Language Models (LLMs). However, LLMs face\nchallenges due to hallucination issues and a lack of domain-specific database\nknowledge(such as table schema and cell values). As a result, they can make\nerrors in generating table names, columns, and matching values to the correct\ncolumns in SQL statements. This paper introduces a method of knowledge\ninjection to enhance LLMs' ability to understand schema contents by\nincorporating prior knowledge. This approach improves their performance in\nText-to-SQL tasks. Experimental results show that pre-training LLMs on\ndomain-specific database knowledge and fine-tuning them on downstream\nText-to-SQL tasks significantly improves the Execution Match (EX) and Exact\nMatch (EM) metrics across various models. This effectively reduces errors in\ngenerating column names and matching values to the columns. Furthermore, the\nknowledge-injected models can be applied to many downstream Text-to-SQL tasks,\ndemonstrating the generalizability of the approach presented in this paper.",
+        "分类": [
+            "cs.CL",
+            "cs.AI"
+        ],
+        "补充信息": "This paper has been accepted by ECAI 2024",
+        "日期": "2024-09-24T09:24:03+00:00",
+        "概述": "本文研究了大型语言模型在转换文本到SQL查询方面的限制，如幻觉问题和缺乏特定领域的数据库知识。为了解决这些问题，作者提出了一种知识注入方法，通过预训练LLM以包含领域特定的数据库知识，并在下游Text-to-SQL任务上进行微调。实验结果显示，这种方法显著提高了模型的执行匹配度和精确匹配度，有效减少了列名生成和值匹配错误，并展示了该方法的泛化能力。",
+        "摘要译文": "文本到SQL是语义解析中的一个子任务，随着大型语言模型（LLMs）的发展而迅速进步。然而，LLMs在生成表名、列名以及在SQL语句中匹配值时会遇到幻觉问题和缺乏特定领域的数据库知识（如表结构和单元格值）的挑战。因此，它们在生成SQL语句时可能会出错。本文介绍了一种知识注入方法，通过结合先验知识来增强LLMs对模式内容的理解能力，从而提高其在文本到SQL任务上的性能。实验结果显示，预先在特定领域的数据库知识上训练LLMs，并在下游的文本到SQL任务上进行微调，可以显著提高各种模型的执行匹配（EX）和精确匹配（EM）指标，有效减少了生成列名和匹配值错误的情况。此外，注入知识的模型可以应用于许多下游的文本到SQL任务，展示了本文提出方法的通用性。"
+    },
+    {
+        "序号": 35,
+        "标题": "Natural Language Query Engine for Relational Databases using Generative AI",
+        "链接": "http://arxiv.org/abs/2410.07144v1",
+        "作者": [
+            "Steve Tueno Fotso"
+        ],
+        "摘要": "The growing reliance on data-driven decision-making highlights the need for\nmore intuitive ways to access and analyze information stored in relational\ndatabases. However, the requirement of SQL knowledge has long been a\nsignificant barrier for non-technical users. This article introduces an\ninnovative solution that leverages Generative AI to bridge this gap, enabling\nusers to query databases using natural language. Our approach automatically\ntranslates natural language queries into SQL, ensuring both syntactic and\nsemantic correctness, while also generating clear, natural language responses\nfrom the retrieved data. By streamlining the interaction between users and\ndatabases, this method empowers individuals without technical expertise to\nengage with data directly and efficiently, democratizing access to valuable\ninsights and enhancing productivity.",
+        "分类": [
+            "cs.DB",
+            "cs.AI",
+            "cs.LG",
+            "cs.SE"
+        ],
+        "补充信息": "Artificial Intelligence, Machine Learning, Generative AI, SQL,\n  Relational Database, SQL Correctness",
+        "日期": "2024-09-23T01:07:02+00:00",
+        "概述": "本文提出了一种基于生成式AI的自然语言查询引擎，旨在解决非技术人员因缺乏SQL知识而难以访问和分析关系数据库中的信息的问题。该方法能够将自然语言查询自动翻译为SQL，返回结构化的SQL查询并生成清晰的自然语言响应，从而简化了用户与数据库的交互，使非技术人员也能直接高效地处理数据，提高了数据访问的普及性和效率。",
+        "摘要译文": "随着对基于数据的决策制定依赖性的增加，人们更加需要直观的方式访问和分析存储在关系数据库中的信息。然而，SQL知识的要求长期以来一直是非技术人员的一项重大障碍。本文介绍了一种创新的解决方案，该方案利用生成型AI填补这一缺口，让用户能够使用自然语言查询数据库。我们的方法能够自动将自然语言查询翻译成SQL代码，确保语法和语义的正确性，同时生成清晰的自然语言回复。通过简化用户与数据库之间的互动，这种方法使缺乏技术背景的个体能够直接、高效地与数据互动，从而促进访问有价值的信息，并提升生产效率。"
+    },
+    {
+        "序号": 34,
+        "标题": "FLEX: Expert-level False-Less EXecution Metric for Reliable Text-to-SQL Benchmark",
+        "链接": "http://arxiv.org/abs/2409.19014v4",
+        "作者": [
+            "Heegyu Kim",
+            "Taeyang Jeon",
+            "Seunghwan Choi",
+            "Seungtaek Choi",
+            "Hyunsouk Cho"
+        ],
+        "摘要": "Text-to-SQL systems have become crucial for translating natural language into\nSQL queries in various industries, enabling non-technical users to perform\ncomplex data operations. The need for accurate evaluation methods has increased\nas these systems have grown more sophisticated. However, the Execution Accuracy\n(EX), the most prevalent evaluation metric, still shows many false positives\nand negatives. Thus, this paper introduces FLEX (False-Less EXecution), a novel\napproach to evaluating text-to-SQL systems using large language models (LLMs)\nto emulate human expert-level evaluation of SQL queries. Our metric improves\nagreement with human experts (from 62 to 87.04 in Cohen's kappa) with\ncomprehensive context and sophisticated criteria. Our extensive experiments\nyield several key insights: (1) Models' performance increases by over 2.6\npoints on average, substantially affecting rankings on Spider and BIRD\nbenchmarks; (2) The underestimation of models in EX primarily stems from\nannotation quality issues; and (3) Model performance on particularly\nchallenging questions tends to be overestimated. This work contributes to a\nmore accurate and nuanced evaluation of text-to-SQL systems, potentially\nreshaping our understanding of state-of-the-art performance in this field.",
+        "分类": [
+            "cs.CL",
+            "cs.IR",
+            "cs.LG"
+        ],
+        "补充信息": "preprint, under review",
+        "日期": "2024-10-28T11:11:04+00:00",
+        "概述": "该论文旨在改进文本到SQL系统的评估方法。它针对现有执行准确性（EX）指标的不足，引入了FLEX（False-Less EXecution）新指标，利用大型语言模型模拟人类专家级评估。实验结果显示，FLEX显著提高了与人类专家的一致性（从62提高到87.04的Kappa值），提升了模型性能，并揭示了注释质量问题和模型在复杂任务中的表现偏差。这项工作有助于更准确地评估文本到SQL系统，可能重塑该领域最先进的性能理解。",
+        "摘要译文": "文本到SQL系统的出现使得将自然语言转换为SQL查询在多个行业中变得至关重要，从而使非技术人员能够执行复杂的数据操作。随着这些系统的日益复杂，对准确评估方法的需求也增加了。然而，执行准确性(EX)，这一最常见的评估指标，仍然显示出许多假阳性与假阴性。因此，本文引入了FLEX（False-Less EXecution）这一新颖的方法，使用大型语言模型（LLMs）来模拟人类专家级的SQL查询评估。我们的指标在全面的语境和复杂的标准下提高了与人类专家的一致性（从科恩κ系数的62提高到87.04）。我们广泛进行的实验提供了几个关键见解：（1）模型的性能平均提高了2.6个点以上，在Spider和BIRD基准测试中的排名显著受到影响；（2）在EX中的模型低估主要来自于标注质量的问题；（3）模型在特别具有挑战性的问题上的表现往往会高估。这项工作有助于更准确和细致地评估文本到SQL系统，可能重塑我们对这一领域最先进的性能的理解。"
+    },
+    {
+        "序号": 37,
+        "标题": "PTD-SQL: Partitioning and Targeted Drilling with LLMs in Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2409.14082v1",
+        "作者": [
+            "Ruilin Luo",
+            "Liyuan Wang",
+            "Binghuai Lin",
+            "Zicheng Lin",
+            "Yujiu Yang"
+        ],
+        "摘要": "Large Language Models (LLMs) have emerged as powerful tools for Text-to-SQL\ntasks, exhibiting remarkable reasoning capabilities. Different from tasks such\nas math word problems and commonsense reasoning, SQL solutions have a\nrelatively fixed pattern. This facilitates the investigation of whether LLMs\ncan benefit from categorical thinking, mirroring how humans acquire knowledge\nthrough inductive reasoning based on comparable examples. In this study, we\npropose that employing query group partitioning allows LLMs to focus on\nlearning the thought processes specific to a single problem type, consequently\nenhancing their reasoning abilities across diverse difficulty levels and\nproblem categories. Our experiments reveal that multiple advanced LLMs, when\nequipped with PTD-SQL, can either surpass or match previous state-of-the-art\n(SOTA) methods on the Spider and BIRD datasets. Intriguingly, models with\nvarying initial performances have exhibited significant improvements, mainly at\nthe boundary of their capabilities after targeted drilling, suggesting a\nparallel with human progress. Code is available at\nhttps://github.com/lrlbbzl/PTD-SQL.",
+        "分类": [
+            "cs.CL",
+            "cs.AI"
+        ],
+        "补充信息": "EMNLP 2024 Main Conference. Revised by ARR April and ARR June. 32\n  pages, 7 figures and 30 tables",
+        "日期": "2024-09-21T09:33:14+00:00",
+        "概述": "这项研究旨在利用大语言模型（LLMs）在文本到SQL转换任务中的能力，探索通过查询分组和定向钻探提高LLMs推理能力的方法。研究发现，通过查询分组使LLMs专注于特定问题类型的思想过程，可显著提升其在不同难度级别和问题类别上的推理能力。实验表明，多种先进的LLMs在Spider和BIRD数据集上使用PTD-SQL方法后，性能超过或匹配了之前的SOTA方法，证明了这种方法的有效性。",
+        "摘要译文": "大型语言模型（LLMs）已成为文本生成SQL任务的强大工具，展现了卓越的推理能力。不同于数学应用题和常识推理等任务，SQL解决方案相对固定。这便于研究LLMs能否从类别化的思考中受益，类似于人类通过归纳推理基于相似例子获取知识的方式。在本研究中，我们提出使用查询组分区使LLMs能够专注于学习单一问题类型的具体思维过程，从而在不同难度级别和问题类别中增强其推理能力。我们的实验表明，配备PTD-SQL的多个先进LLMs在Spider和BIRD数据集上的表现要么超越，要么匹配之前最先进的（SOTA）方法。有趣的是，具有不同初始性能的模型在经过针对性强化训练后，在其能力边界处取得了显著改进，这与人类的进步趋势相似。代码可在https://github.com/lrlbbzl/PTD-SQL获取。"
+    },
+    {
+        "序号": 38,
+        "标题": "You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2409.12172v1",
+        "作者": [
+            "Hideo Kobayashi",
+            "Wuwei Lan",
+            "Peng Shi",
+            "Shuaichen Chang",
+            "Jiang Guo",
+            "Henghui Zhu",
+            "Zhiguo Wang",
+            "Patrick Ng"
+        ],
+        "摘要": "While significant progress has been made on the text-to-SQL task, recent\nsolutions repeatedly encode the same database schema for every question,\nresulting in unnecessary high inference cost and often overlooking crucial\ndatabase knowledge. To address these issues, we propose You Only Read Once\n(YORO), a novel paradigm that directly internalizes database knowledge into the\nparametric knowledge of a text-to-SQL model during training and eliminates the\nneed for schema encoding during inference. YORO significantly reduces the input\ntoken length by 66%-98%. Despite its shorter inputs, our empirical results\ndemonstrate YORO's competitive performances with traditional systems on three\nbenchmarks as well as its significant outperformance on large databases.\nFurthermore, YORO excels in handling questions with challenging value\nretrievals such as abbreviation.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-18T17:38:25+00:00",
+        "概述": "这项研究针对文本到SQL翻译任务中频繁重复编码数据库模式的问题，提出了You Only Read Once (YORO)方法，该方法在训练过程中直接将数据库知识内化到文本到SQL模型的参数知识中，消除了推理时的模式编码需求，显著减少了输入token长度66%-98%，并在多个基准测试上展示了与传统系统相当甚至更优的性能，尤其是在处理复杂值检索问题时表现出色。",
+        "摘要译文": "尽管在文本到SQL任务上已经取得显著进展，但最近的解决方案反复为每个问题编码相同的数据库模式，导致不必要的高推理成本，并且往往忽略了关键的数据库知识。为了解决这些问题，我们提出了一种新的范式You Only Read Once (YORO)，该范式在训练期间直接将数据库知识内化为文本到SQL模型的参数化知识，并在推理时消除了模式编码的需要。YORO通过减少输入 token 长度 66%-98% 来显著降低输入长度。尽管其输入更短，但我们实验证明 YORO 在三个基准上的性能与传统系统相当，并且在大型数据库上表现出显著的优越性。此外，YORO 在处理诸如缩写等具有挑战性的值检索问题时表现出色。"
+    },
+    {
+        "序号": 36,
+        "标题": "Knowledge in Triples for LLMs: Enhancing Table QA Accuracy with Semantic Extraction",
+        "链接": "http://arxiv.org/abs/2409.14192v2",
+        "作者": [
+            "Hossein Sholehrasa",
+            "Sanaz Saki Norouzi",
+            "Pascal Hitzler",
+            "Majid Jaberi-Douraki"
+        ],
+        "摘要": "Integrating structured knowledge from tabular formats poses significant\nchallenges within natural language processing (NLP), mainly when dealing with\ncomplex, semi-structured tables like those found in the FeTaQA dataset. These\ntables require advanced methods to interpret and generate meaningful responses\naccurately. Traditional approaches, such as SQL and SPARQL, often fail to fully\ncapture the semantics of such data, especially in the presence of irregular\ntable structures like web tables. This paper addresses these challenges by\nproposing a novel approach that extracts triples straightforward from tabular\ndata and integrates it with a retrieval-augmented generation (RAG) model to\nenhance the accuracy, coherence, and contextual richness of responses generated\nby a fine-tuned GPT-3.5-turbo-0125 model. Our approach significantly\noutperforms existing baselines on the FeTaQA dataset, particularly excelling in\nSacre-BLEU and ROUGE metrics. It effectively generates contextually accurate\nand detailed long-form answers from tables, showcasing its strength in complex\ndata interpretation.",
+        "分类": [
+            "cs.CL",
+            "cs.IR"
+        ],
+        "补充信息": "We are withdrawing this paper to address foundational aspects that\n  are critical for ensuring its accuracy and integrity before any potential\n  resubmission",
+        "日期": "2024-10-29T21:10:59+00:00",
+        "概述": "本文旨在解决自然语言处理中复杂半结构化表格数据的语义提取问题，特别是针对FeTaQA数据集中的非标准表格。传统的SQL和SPARQL方法往往无法充分捕捉此类数据的语义。论文提出了一种新的方法，从表格数据中直接抽取三元组，并结合检索增强生成（RAG）模型，以提高GPT-3.5-turbo-0125模型生成的答案准确性、连贯性和上下文丰富性。实验结果显示，该方法在Sacre-BLEU和ROUGE指标上显著优于现有 baseline，特别是在生成复杂数据的上下文准确性和详细长文本回答方面表现出色。",
+        "摘要译文": "将结构化的知识从表格格式中集成到自然语言处理（NLP）中提出了重大挑战，尤其是在处理如FeTaQA数据集中所发现的复杂半结构化表格时。这些表格需要高级方法来准确地解释和生成有意义的响应。传统的方法，如SQL和SPARQL，通常无法全面捕捉此类数据的语义，尤其是在存在不规则表格结构（如网页表格）的情况下。本文通过提出一种新方法来应对这些挑战，该方法直接从表格数据中提取三元组并将其与检索增强生成（RAG）模型结合，以增强微调后的GPT-3.5-turbo-0125模型生成的响应的准确度、连贯性和语境丰富性。我们的方法在FeTaQA数据集上的表现显著优于现有基线，特别是在Sacre-BLEU和ROUGE指标上表现出色。它能够有效生成上下文准确且详细的长格式答案，展示了其在复杂数据解释方面的优势。"
+    },
+    {
+        "序号": 39,
+        "标题": "Quantum-limited optical lever measurement of a torsion oscillator",
+        "链接": "http://arxiv.org/abs/2409.11397v1",
+        "作者": [
+            "Christian M. Pluchar",
+            "Aman R. Agrawal",
+            "Dalziel J. Wilson"
+        ],
+        "摘要": "The optical lever is a precision displacement sensor with broad applications.\nIn principle, it can track the motion of a mechanical oscillator with added\nnoise at the Standard Quantum Limit (SQL); however, demonstrating this\nperformance requires an oscillator with an exceptionally high torque\nsensitivity, or, equivalently, zero-point angular displacement spectral\ndensity. Here, we describe optical lever measurements on Si$_3$N$_4$\nnanoribbons possessing $Q>3\\times 10^7$ torsion modes with torque sensitivities\nof $10^{-20}\\,\\text{N m}/\\sqrt{\\text{Hz}}$ and zero-point displacement spectral\ndensities of $10^{-10}\\,\\text{rad}/\\sqrt{\\text{Hz}}$. Compensating aberrations\nand leveraging immunity to classical intensity noise, we realize angular\ndisplacement measurements with imprecisions 20 dB below the SQL and demonstrate\nfeedback cooling, using a position modulated laser beam as a torque actuator,\nfrom room temperature to $\\sim5000$ phonons. Our study signals the potential\nfor a new class of torsional quantum optomechanics.",
+        "分类": [
+            "quant-ph",
+            "cond-mat.mes-hall",
+            "physics.app-ph",
+            "physics.optics"
+        ],
+        "补充信息": "9 pages, 6 figures",
+        "日期": "2024-09-17T17:56:02+00:00",
+        "概述": "该研究利用光学杠杆技术测量Si₃N₄纳米带的扭转振荡器，实现亚量子极限的角位移测量。研究通过补偿畸变并利用对经典强度噪声的免疫性，实现了信噪比20 dB优于量子极限的角位移测量，并展示了从室温到约5000普朗克调制激光束作为扭矩执行器的反馈冷却，证实了新的扭转量子光学潜力。",
+        "摘要译文": "光学杠杆是一种精度位移传感器，具有广泛的应用领域。原则上，它可以在标准量子限定（SQL）下跟踪机械振荡器的运动并加入噪声；然而，展示这种性能需要一个具有异常高扭矩灵敏度的振荡器，或者等效地，零点角位移频谱密度为零。在这里，我们描述了对具有$Q>3\\times 10^7$扭转模式且扭矩灵敏度为$10^{-20}\\,\\text{N m}/\\sqrt{\\text{Hz}}$、零点位移频谱密度为$10^{-10}\\,\\text{rad}/\\sqrt{\\text{Hz}}$的Si$_3$N$_4$纳米带进行的光学杠杆测量。通过补偿像差并利用对经典强度噪声的免疫力，我们实现了角位移测量的不精确性达到SQL下的20 dB以下，并使用位置调制的激光束作为扭矩执行器实现了从室温到约5000个声子的反馈冷却。我们的研究预示着一种新型扭转量子光学力学的可能性。"
+    },
+    {
+        "序号": 41,
+        "标题": "Overcoming the Standard Quantum Limit with Electro-Optomechanical Hybrid System for Enhanced Force Sensing",
+        "链接": "http://arxiv.org/abs/2409.10694v1",
+        "作者": [
+            "Alolika Roy",
+            "Amarendra K. Sarma"
+        ],
+        "摘要": "We investigate the reduction of measurement-added noise in force sensing by\nanalyzing its power spectral density (PSD) within a hybrid optomechanical\nsystem. The setup comprises of an optomechanical cavity equipped with a movable\nmirror which acts as the mechanical oscillator, a stationary semi-transparent\nmirror, a superconducting qubit, and an optical parametric amplifier (OPA). By\nutilizing the concept of coherent quantum noise cancellation (CQNC), we derive\nthe conditions necessary for complete cancellation of back-action force,\nthereby enhancing force sensitivity. Furthermore, with the gradual increase in\nthe OPA pump gains, we suppress the sensitivity beyond the standard quantum\nlimit (SQL) at a lower value of laser power. The removal of back-action noise,\nalong with the reduction of shot noise, improves force detection capabilities,\nthereby surpassing the standard quantum limit associated with weak force\ndetection.",
+        "分类": [
+            "quant-ph"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-16T19:48:23+00:00",
+        "概述": "该研究旨在通过使用电光机电混合系统来降低力检测中的测量噪声，从而超越标准量子限制。研究通过分析混和光学机电系统中力传感的功率谱密度（PSD），利用相干量子噪声取消（CQNC）概念，提高了力敏感度。随着光参量放大器（OPA）泵浦增益的增加，可以使用较低的激光功率抑制敏感度，从而克服标准量子限制，提高力检测能力。",
+        "摘要译文": "我们通过分析力传感中测量添加噪声的功率谱密度（PSD），研究了其在混合光机械系统中的减少。该系统包括一个带有移动反射镜的光机械腔（此移动反射镜作为机械振子）、一个固定的半透明反射镜、一个超导量子位和一个光学参量放大器（OPA）。利用相干量子噪声抵消（CQNC）的概念，我们推导出完全抵消反作用力的必要条件，从而提高力灵敏度。此外，随着OPA泵浦增益的逐渐增加，我们能够在较低的激光功率下将敏感度降低到标准量子极限（SQL）以下。消除反作用噪声并减少计数噪声，提高了力检测能力，从而超越了弱力检测相关的标准量子极限。"
+    },
+    {
+        "序号": 40,
+        "标题": "Large Language Models are Good Multi-lingual Learners : When LLMs Meet Cross-lingual Prompts",
+        "链接": "http://arxiv.org/abs/2409.11056v1",
+        "作者": [
+            "Teng Wang",
+            "Zhenqi He",
+            "Wing-Yin Yu",
+            "Xiaojin Fu",
+            "Xiongwei Han"
+        ],
+        "摘要": "With the advent of Large Language Models (LLMs), generating rule-based data\nfor real-world applications has become more accessible. Due to the inherent\nambiguity of natural language and the complexity of rule sets, especially in\nlong contexts, LLMs often struggle to follow all specified rules, frequently\nomitting at least one. To enhance the reasoning and understanding of LLMs on\nlong and complex contexts, we propose a novel prompting strategy Multi-Lingual\nPrompt, namely MLPrompt, which automatically translates the error-prone rule\nthat an LLM struggles to follow into another language, thus drawing greater\nattention to it. Experimental results on public datasets across various tasks\nhave shown MLPrompt can outperform state-of-the-art prompting methods such as\nChain of Thought, Tree of Thought, and Self-Consistency. Additionally, we\nintroduce a framework integrating MLPrompt with an auto-checking mechanism for\nstructured data generation, with a specific case study in text-to-MIP\ninstances. Further, we extend the proposed framework for text-to-SQL to\ndemonstrate its generation ability towards structured data synthesis.",
+        "分类": [
+            "cs.CL"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-17T10:33:27+00:00",
+        "概述": "本文提出了一种新的多语言提示策略MLPrompt，旨在帮助大语言模型更好地处理长且复杂的语境。通过将模型难以遵循的规则自动翻译成另一种语言，MLPrompt能有效提高模型的理解和推理能力。实验结果显示，MLPrompt在多个任务上的表现优于现有方法如Chain of Thought、Tree of Thought和Self-Consistency。此外，文中还介绍了一种结合MLPrompt和自动检查机制的框架，用于结构化数据生成，并将其扩展至文本到SQL的任务，展示了其在结构化数据合成方面的生成能力。",
+        "摘要译文": "随着大型语言模型（LLMs）的出现，为实际应用生成基于规则的数据变得更加容易。由于自然语言本身固有的模糊性和规则集的复杂性，尤其是在长上下文中，LLMs 经常难以遵循所有指定规则，往往至少会遗漏一条。为了增强LLMs在处理长且复杂的上下文时的推理能力和理解能力，我们提出了一种新的提示策略，即多语言提示（Multi-Lingual Prompt，简称MLPrompt），该策略能够自动将LLM难以遵循的错误规则翻译成另一种语言，从而引起更多注意。在跨各种任务的公开数据集上的实验结果显示，MLPrompt 在推理方法方面超过了现有最先进的方法，如思维链（Chain of Thought）、思维树（Tree of Thought）和自我一致性（Self-Consistency）。此外，我们还提出了一种将MLPrompt 与结构化数据生成的自动检查机制相结合的框架，并在一个文本到MIP实例的具体案例研究中进行了介绍。进一步地，我们将提出的框架扩展到文本到SQL，以展示其在结构化数据合成方面的生成能力。"
+    },
+    {
+        "序号": 42,
+        "标题": "SelECT-SQL: Self-correcting ensemble Chain-of-Thought for Text-to-SQL",
+        "链接": "http://arxiv.org/abs/2409.10007v1",
+        "作者": [
+            "Ke Shen",
+            "Mayank Kejriwal"
+        ],
+        "摘要": "In recent years,Text-to-SQL, the problem of automatically converting\nquestions posed in natural language to formal SQL queries, has emerged as an\nimportant problem at the intersection of natural language processing and data\nmanagement research. Large language models (LLMs) have delivered impressive\nperformance when used in an off-the-shelf performance, but still fall\nsignificantly short of expected expert-level performance. Errors are especially\nprobable when a nuanced understanding is needed of database schemas, questions,\nand SQL clauses to do proper Text-to-SQL conversion. We introduce SelECT-SQL, a\nnovel in-context learning solution that uses an algorithmic combination of\nchain-of-thought (CoT) prompting, self-correction, and ensemble methods to\nyield a new state-of-the-art result on challenging Text-to-SQL benchmarks.\nSpecifically, when configured using GPT-3.5-Turbo as the base LLM, SelECT-SQL\nachieves 84.2% execution accuracy on the Spider leaderboard's development set,\nexceeding both the best results of other baseline GPT-3.5-Turbo-based solutions\n(81.1%), and the peak performance (83.5%) of the GPT-4 result reported on the\nleaderboard.",
+        "分类": [
+            "cs.CL",
+            "cs.AI"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-16T05:40:18+00:00",
+        "概述": "这项研究旨在解决自然语言到SQL转换中的精度问题，特别是在需要深入理解数据库模式、查询和SQL子句时。作者提出了SelECT-SQL，这是一种结合chain-of-thought提示、自我校正和集成方法的新颖上下文学习解决方案。通过使用GPT-3.5-Turbo作为基础LLM，SelECT-SQL在Spider基准测试集的开发集上实现了84.2%的执行精度，超过了其他基线GPT-3.5-Turbo方案的最佳结果（81.1%）和GPT-4报告的最高性能（83.5%）。",
+        "摘要译文": "近年来，Text-to-SQL 问题，即自动将自然语言问题转换为规范的 SQL 查询，已成为自然语言处理和数据管理研究交汇处的一个重要问题。现成的大语言模型（LLMs）在使用时表现出色，但仍远未达到预期的专家级性能。特别是在需要对数据库模式、问题和 SQL 子句进行细致理解以进行正确的 Text-to-SQL 转换时，错误尤为常见。我们提出了一种名为 SelECT-SQL 的新颖的上下文学习解决方案，该解决方案通过结合链式思考（CoT）提示、自我纠错和集成方法来在具有挑战性的 Text-to-SQL 负载项上取得新的最佳结果。具体而言，当使用 GPT-3.5-Turbo 作为基础 LLM 配置时，SelECT-SQL 在 Spider 领导板的开发集上实现了 84.2% 的执行准确性，超过了其他基于 GPT-3.5-Turbo 的基线解决方案的最佳结果（81.1%），并超过了领导板上报告的 GPT-4 结果的峰值性能（83.5%）。"
+    },
+    {
+        "序号": 43,
+        "标题": "Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations",
+        "链接": "http://arxiv.org/abs/2409.08929v2",
+        "作者": [
+            "Francesco Ghisoni",
+            "Francesco Scala",
+            "Daniele Bajoni",
+            "Dario Gerace"
+        ],
+        "摘要": "Finding the solution to linear systems is at the heart of many applications\nin science and technology. Over the years a number of algorithms have been\nproposed to solve this problem on a digital quantum device, yet most of these\nare too demanding to be applied to the current noisy hardware. In this work, an\noriginal algorithmic procedure to solve the Quantum Linear System Problem\n(QLSP) is presented, which combines ideas from Variational Quantum Algorithms\n(VQA) and the framework of classical shadows. The result is the Shadow Quantum\nLinear Solver (SQLS), a quantum algorithm solving the QLSP avoiding the need\nfor large controlled unitaries, requiring a number of qubits that is\nlogarithmic in the system size. In particular, our heuristics show an\nexponential advantage of the SQLS in circuit execution per cost function\nevaluation when compared to other notorious variational approaches to solving\nlinear systems of equations. We test the convergence of the SQLS on a number of\nlinear systems, and results highlight how the theoretical bounds on the number\nof resources used by the SQLS are conservative. Finally, we apply this\nalgorithm to a physical problem of practical relevance, by leveraging\ndecomposition theorems from linear algebra to solve the discretized Laplace\nEquation in a 2D grid for the first time using a hybrid quantum algorithm.",
+        "分类": [
+            "quant-ph"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-23T08:47:57+00:00",
+        "概述": "该研究提出了一种新的量子算法——Shadow Quantum Linear Solver (SQLS)，旨在解决线性系统问题。研究动机是当前数字量子设备的噪声限制了传统算法的应用。SQLS 结合了变量子算法和经典阴影框架，避免了大控制门的使用，所需量子比特数量与系统规模对数相关。实验结果显示，SQLS 在电路执行中相对于其他变量子算法具有指数级优势。研究还展示了在2D网格上首次使用混合量子算法求解离散拉普拉斯方程的结果，验证了算法的有效性。",
+        "摘要译文": "求解线性系统的解是科学技术中许多应用的核心。多年来，人们提议了许多算法在数字量子设备上解决这个问题，但大多数算法对当前嘈杂的硬件来说要求太高，无法应用。在本文中，提出了一种解决量子线性系统问题（QLSP）的原始算法程序，该程序结合了变分量子算法（VQA）和经典阴影框架的想法。结果是阴影量子线性求解器（SQLS），一种量子算法，它避免了需要大规模控制单元操作，所需的量子位数量与系统大小成对数关系。特别是，我们的启发式方法显示，与解决线性方程组的其他著名变分方法相比，SQLS 在电路执行每个成本函数评估时具有指数优势。我们对多个线性系统测试了SQLS 的收敛性，结果显示SQLS 使用资源的数量理论上限可能较为保守。最后，我们利用线性代数的分解定理，首次使用混合量子算法解决二维网格上的离散拉普拉斯方程，从而将该算法应用到一个实际的物理问题中。"
+    },
+    {
+        "序号": 45,
+        "标题": "SQLucid: Grounding Natural Language Database Queries with Interactive Explanations",
+        "链接": "http://arxiv.org/abs/2409.06178v1",
+        "作者": [
+            "Yuan Tian",
+            "Jonathan K. Kummerfeld",
+            "Toby Jia-Jun Li",
+            "Tianyi Zhang"
+        ],
+        "摘要": "Though recent advances in machine learning have led to significant\nimprovements in natural language interfaces for databases, the accuracy and\nreliability of these systems remain limited, especially in high-stakes domains.\nThis paper introduces SQLucid, a novel user interface that bridges the gap\nbetween non-expert users and complex database querying processes. SQLucid\naddresses existing limitations by integrating visual correspondence,\nintermediate query results, and editable step-by-step SQL explanations in\nnatural language to facilitate user understanding and engagement. This unique\nblend of features empowers users to understand and refine SQL queries easily\nand precisely. Two user studies and one quantitative experiment were conducted\nto validate SQLucid's effectiveness, showing significant improvement in task\ncompletion accuracy and user confidence compared to existing interfaces. Our\ncode is available at https://github.com/magic-YuanTian/SQLucid.",
+        "分类": [
+            "cs.HC",
+            "cs.CL"
+        ],
+        "补充信息": "Accepted to UIST'24",
+        "日期": "2024-09-10T03:14:09+00:00",
+        "概述": "SQLucid 是一种新颖的用户界面，旨在帮助非专业用户更好地理解和操作复杂的数据库查询过程。它通过结合视觉对应、中间查询结果和可编辑的逐步 SQL 解释来解决现有系统的准确性与可靠性问题，尤其是在高风险领域。研究通过两项用户研究和一次定量实验验证了 SQLucid 的有效性，结果显示其在任务完成准确性与用户信心方面均显著优于现有界面。",
+        "摘要译文": "尽管近年来机器学习在自然语言数据库接口方面取得了显著进展，但这些系统的准确性和可靠性在高风险领域仍然有限。本文介绍了一种名为SQLucid的新型用户界面，该界面旨在弥合非专业人士与复杂数据库查询流程之间的差距。SQLucid通过整合视觉对应关系、中间查询结果和可编辑的逐步SQL解释（自然语言），来促进用户理解和参与。这一独特功能组合使用户能够轻松且精确地理解并改进SQL查询。进行了两项用户研究和一项定量实验以验证SQLucid的有效性，结果显示与现有的接口相比，在任务完成准确性及用户信心方面有显著改进。我们的代码可在https://github.com/magic-YuanTian/SQLucid 获取。"
+    },
+    {
+        "序号": 46,
+        "标题": "A System and Benchmark for LLM-based Q&A on Heterogeneous Data",
+        "链接": "http://arxiv.org/abs/2409.05735v2",
+        "作者": [
+            "Achille Fokoue",
+            "Srideepika Jayaraman",
+            "Elham Khabiri",
+            "Jeffrey O. Kephart",
+            "Yingjie Li",
+            "Dhruv Shah",
+            "Youssef Drissi",
+            "Fenno F. Heath III",
+            "Anu Bhamidipaty",
+            "Fateh A. Tipu",
+            "Robert J. Baseman"
+        ],
+        "摘要": "In many industrial settings, users wish to ask questions whose answers may be\nfound in structured data sources such as a spreadsheets, databases, APIs, or\ncombinations thereof. Often, the user doesn't know how to identify or access\nthe right data source. This problem is compounded even further if multiple (and\npotentially siloed) data sources must be assembled to derive the answer.\nRecently, various Text-to-SQL applications that leverage Large Language Models\n(LLMs) have addressed some of these problems by enabling users to ask questions\nin natural language. However, these applications remain impractical in\nrealistic industrial settings because they fail to cope with the data source\nheterogeneity that typifies such environments. In this paper, we address\nheterogeneity by introducing the siwarex platform, which enables seamless\nnatural language access to both databases and APIs. To demonstrate the\neffectiveness of siwarex, we extend the popular Spider dataset and benchmark by\nreplacing some of its tables by data retrieval APIs. We find that siwarex does\na good job of coping with data source heterogeneity. Our modified Spider\nbenchmark will soon be available to the research community",
+        "分类": [
+            "cs.DB",
+            "cs.AI"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-10T21:46:32+00:00",
+        "概述": "本文针对工业环境中多种异构数据源（如电子表格、数据库、API等）问答的需求，提出了一种名为siwarex的平台，能够自然语言访问数据库和API。通过扩展Spider数据集并在其中引入数据检索API，证明了siwarex能有效处理数据源异构性的挑战，为研究界提供了新的基准测试。",
+        "摘要译文": "在许多工业环境中，用户希望询问可以从结构化数据源（如电子表格、数据库、API或上述多种组合）中找到答案的问题。通常，用户不知道如何识别或访问正确的数据源。如果需要组合多个（并且可能是隔离的）数据源以得出答案，这个问题会进一步加剧。最近，利用大型语言模型（LLMs）的各种文本到SQL应用程序部分解决了这些问题，通过让用户用自然语言提问。然而，由于这些应用程序无法处理工业环境中典型的多数据源异质性，因此在现实的工业环境下仍然不实用。在这篇论文中，我们通过引入siwarex平台解决了这一异质性问题，该平台能够无缝访问数据库和API。为了展示siwarex的有效性，我们扩展了流行的Spider数据集和基准测试，用数据检索API替换了一些表格。我们发现，siwarex很好地应对了数据源异质性。我们的修改后的Spider基准测试很快将可供研究界使用。"
+    },
+    {
+        "序号": 44,
+        "标题": "Ranked Enumeration for Database Queries",
+        "链接": "http://arxiv.org/abs/2409.08142v1",
+        "作者": [
+            "Nikolaos Tziavelis",
+            "Wolfgang Gatterbauer",
+            "Mirek Riedewald"
+        ],
+        "摘要": "Ranked enumeration is a query-answering paradigm where the query answers are\nreturned incrementally in order of importance (instead of returning all answers\nat once). Importance is defined by a ranking function that can be specific to\nthe application, but typically involves either a lexicographic order (e.g.,\n\"ORDER BY R.A, S.B\" in SQL) or a weighted sum of attributes (e.g., \"ORDER BY\n3*R.A + 2*S.B\"). We recently introduced any-k algorithms for (multi-way) join\nqueries, which push ranking into joins and avoid materializing intermediate\nresults until necessary. The top-ranked answers are returned asymptotically\nfaster than the common join-then-rank approach of database systems, resulting\nin orders-of-magnitude speedup in practice.\n  In addition to their practical usefulness, our techniques complement a long\nline of theoretical research on unranked enumeration, where answers are also\nreturned incrementally, but with no explicit ordering requirement. For a broad\nclass of ranking functions with certain monotonicity properties, including\nlexicographic orders and sum-based rankings, the ordering requirement\nsurprisingly does not increase the asymptotic time or space complexity, apart\nfrom logarithmic factors.\n  A key insight of our work is the connection between ranked enumeration for\ndatabase queries and the fundamental task of computing the kth-shortest path in\na graph. Uncovering these connections allowed us to ground our approach in the\nrich literature of that problem and connect ideas that had been explored in\nisolation before. In this article, we adopt a pragmatic approach and present a\nslightly simplified version of the algorithm without the shortest-path\ninterpretation. We believe that this will benefit practitioners looking to\nimplement and optimize any-k approaches.",
+        "分类": [
+            "cs.DB"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-12T15:34:23+00:00",
+        "概述": "本文提出了Ranked Enumeration查询方法，通过增量返回查询答案并按重要性排序，而非一次性返回全部结果。该方法通过优化多路连接查询中的排名算法，避免提前生成中间结果，显著提高了top-ranked答案的返回速度。对于特定的排名函数，该方法未增加时空复杂度，尤其适用于计算k最短路径的问题。这种方法不仅在实践中有用，还能与其他理论研究相融合，为 practitoners 提供实现和优化的参考。",
+        "摘要译文": "排名枚举是一种查询回答范式，在这种范式中，查询答案是根据重要性顺序逐步返回的（而不是一次返回所有答案）。重要性由一个排名函数定义，该函数可以针对特定的应用程序，但通常涉及字典顺序（例如，SQL中的“ORDER BY R.A, S.B”）或属性的加权和（例如，“ORDER BY 3*R.A + 2*S.B”）。我们最近为多路连接查询引入了任何-k算法，这些算法将排名推进到连接操作中，并在必要时才生成中间结果。相比数据库系统中常见的先连接后排名的方法，排名最高的答案返回得更快，从而在实际操作中带来了数量级的性能提升。\n\n除了其实际用途外，我们的技术还补充了一条关于未排序枚举的长期理论研究线，在这种研究中，答案也是逐步返回的，但没有明确的排序要求。对于一类具有某些单调性属性的排名函数，包括字典顺序和基于和的排名，排序要求令人惊讶地不会增加渐近的时间或空间复杂性，只是在对数因子级别上有所不同。\n\n我们工作的关键见解是，数据库查询中的排名枚举与图中第k短路径的计算这一基本任务之间的联系。揭示这些联系使我们能够将方法扎根于该问题丰富的文献基础中，并将之前孤立探索的想法联系起来。在本文中，我们采取了一种实用的方法，并提出了一种简化的算法版本，没有最短路径的解释。我们相信，这将有助于那些希望实现和优化任何-k方法的 practitioner。"
+    },
+    {
+        "序号": 48,
+        "标题": "Cross-course Process Mining of Student Clickstream Data -- Aggregation and Group Comparison",
+        "链接": "http://arxiv.org/abs/2409.14244v1",
+        "作者": [
+            "Tobias Hildebrandt",
+            "Lars Mehnen"
+        ],
+        "摘要": "This paper introduces novel methods for preparing and analyzing student\ninteraction data extracted from course management systems like Moodle to\nfacilitate process mining, like the creation of graphs that show the process\nflow. Such graphs can get very complex as Moodle courses can contain hundreds\nof different activities, which makes it difficult to compare the paths of\ndifferent student cohorts. Moreover, existing research often confines its focus\nto individual courses, overlooking potential patterns that may transcend course\nboundaries. Our research addresses these challenges by implementing an\nautomated dataflow that directly queries data from the Moodle database via SQL,\noffering the flexibility of filtering on individual courses if needed. In\naddition to analyzing individual Moodle activities, we explore patterns at an\naggregated course section level. Furthermore, we present a method for\nstandardizing section labels across courses, facilitating cross-course analysis\nto uncover broader usage patterns. Our findings reveal, among other insights,\nthat higher-performing students demonstrate a propensity to engage more\nfrequently with available activities and exhibit more dynamic movement between\nobjects. While these patterns are discernible when analyzing individual course\nactivity-events, they become more pronounced when aggregated to the section\nlevel and analyzed across multiple courses.",
+        "分类": [
+            "cs.CY",
+            "cs.HC"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-04T11:28:02+00:00",
+        "概述": "本文介绍了利用新型方法对从Moodle等课程管理系统中提取的学生交互数据进行预处理和分析，以促进过程挖掘。研究解决的问题包括课程中包含大量活动导致的路径复杂性和单课程研究忽略跨课程模式的问题。研究通过自动化数据流直接从Moodle数据库查询数据，并提出跨课程节层级的聚合分析方法，标准化课程节标签，揭示了高分学生参与活动更频繁且在对象间移动更加动态的趋势。",
+        "摘要译文": "本文介绍了用于准备和分析从 Moodle 等课程管理系统中提取的学生互动数据的新方法，以促进过程挖掘，例如创建展示流程图的图形。由于 Moodle 课程可以包含数百种不同的活动，这些图可能非常复杂，使得不同学生群体的路径比较变得困难。此外，现有研究往往仅集中在个别课程上，忽视了可能跨越课程边界的潜在模式。我们的研究通过实现一个自动数据流，直接通过 SQL 查询 Moodle 数据库中的数据来应对这些挑战，同时提供了按个别课程筛选的灵活性。除了分析单独的 Moodle 活动外，我们还探索了在课程部分级别聚合的模式。此外，我们提出了一种在课程之间标准化部分标签的方法，以促进跨课程分析，揭示更广泛的应用模式。我们的研究发现，高绩效学生更容易频繁地参与可用活动，并且在对象之间表现出更动态的移动。虽然在分析个别课程活动事件时可以观察到这些模式，但当在多个课程中进行聚合和分析时，这些模式会更加明显。"
+    },
+    {
+        "序号": 49,
+        "标题": "Laser cooling a centimeter-scale torsion pendulum",
+        "链接": "http://arxiv.org/abs/2409.02275v1",
+        "作者": [
+            "Dong-Chel Shin",
+            "Tina M. Hayward",
+            "Dylan Fife",
+            "Rajesh Menon",
+            "Vivishek Sudhir"
+        ],
+        "摘要": "We laser cool a centimeter-scale torsion pendulum to a temperature of 10 mK\n(average occupancy of 6000 phonons) starting from room temperature (equivalent\nto $2\\times 10^8$ phonons). This is achieved by optical radiation pressure\nforces conditioned on a quantum-noise-limited optical measurement of the\npendulum's angular displacement with an imprecision 13 dB below that at the\nstandard quantum limit (SQL). The measurement sensitivity is the result of a\nnovel `mirrored' optical lever that passively rejects extraneous spatial-mode\nnoise by 60 dB. The high mechanical quality ($10^7$) and quantum-noise-limited\nsub-SQL measurement imprecision demonstrate the necessary ingredients for\nrealizing the quantum ground state of torsional motion -- a pre-requisite for\nmechanical tests of gravity's alleged quantum nature.",
+        "分类": [
+            "quant-ph",
+            "physics.atom-ph",
+            "physics.optics"
+        ],
+        "补充信息": null,
+        "日期": "2024-09-03T20:20:38+00:00",
+        "概述": "本文通过激光冷却技术，将一个厘米尺度的扭摆冷却至10 mK（约6000个声子），从室温（约2×10^8个声子）开始。研究使用量子噪声限制的光测量方法，并结合一个新颖的“镜像”光学杠杆，显著降低了噪声。这展示了实现扭摆量子地面状态所需的关键技术，为研究重力的量子性质奠定了基础。",
+        "摘要译文": "我们通过光学辐射压力力将一个厘米尺度的扭振摆从室温（相当于2×10^8个声子）冷却到10 mK（平均占据6000个声子）。这是通过量子噪声限制的光学测量条件实现的，该测量的精度比标准量子极限低13 dB。测量灵敏度源于一种新型的“反射式”光学杠杆，它主动地通过60 dB的幅度抑制了外部的空间模式噪声。高机械品质因数（10^7）和量子噪声限制的次标准量子极限（sub-SQL）的测量精度表明，实现扭转载荷的量子地基态所需的必要条件已经具备——这是对引力的量子性质进行机械测试的先决条件。"
+    },
+    {
+        "序号": 47,
+        "标题": "Faster Q-Learning Algorithms for Restless Bandits",
+        "链接": "http://arxiv.org/abs/2409.05908v1",
+        "作者": [
+            "Parvish Kakarapalli",
+            "Devendra Kayande",
+            "Rahul Meshram"
+        ],
+        "摘要": "We study the Whittle index learning algorithm for restless multi-armed\nbandits (RMAB). We first present Q-learning algorithm and its variants --\nspeedy Q-learning (SQL), generalized speedy Q-learning (GSQL) and phase\nQ-learning (PhaseQL). We also discuss exploration policies -- $\\epsilon$-greedy\nand Upper confidence bound (UCB). We extend the study of Q-learning and its\nvariants with UCB policy. We illustrate using numerical example that Q-learning\nwith UCB exploration policy has faster convergence and PhaseQL with UCB have\nfastest convergence rate. We next extend the study of Q-learning variants for\nindex learning to RMAB. The algorithm of index learning is two-timescale\nvariant of stochastic approximation, on slower timescale we update index\nlearning scheme and on faster timescale we update Q-learning assuming fixed\nindex value. We study constant stepsizes two timescale stochastic approximation\nalgorithm. We describe the performance of our algorithms using numerical\nexample. It illustrate that index learning with Q learning with UCB has faster\nconvergence that $\\epsilon$ greedy. Further, PhaseQL (with UCB and $\\epsilon$\ngreedy) has the best convergence than other Q-learning algorithms.",
+        "分类": [
+            "cs.LG",
+            "cs.SY",
+            "eess.SY"
+        ],
+        "补充信息": "7 pages, 3 figures, conference. arXiv admin note: substantial text\n  overlap with arXiv:2409.04605",
+        "日期": "2024-09-06T20:55:07+00:00",
+        "概述": "该研究针对restless多臂bandit问题，开发了Q-learning及其变体（如 SQL、GSQL 和 PhaseQL）算法，并结合UCB探索策略，提出了基于索引学习的两时标随机逼近算法。研究结果显示，Q-learning与UCB结合具有较快的收敛速度，而PhaseQL与UCB结合则表现出最佳的收敛效果。",
+        "摘要译文": "我们研究了 restless 多臂bandits (RMAB) 中的 Whittle 索引学习算法。首先，我们介绍了 Q 学习算法及其变体——快速 Q 学习 (SQL)、广义快速 Q 学习 (GSQL) 和相位 Q 学习 (PhaseQL)。我们还讨论了探索策略——ε-贪婪策略和上置信边界 (UCB)。我们将 Q 学习及其变体与 UCB 探索策略结合起来进行研究。通过数值示例，我们说明了使用 UCB 探索策略的 Q 学习具有更快的收敛速度，并且 PhaseQL (结合 UCB) 具有最快的收敛率。接着，我们将 Q 学习变体的索引学习研究扩展到了 RMAB 中。索引学习算法是一种两时标随机逼近方法，在较慢的时间尺度上更新索引学习方案，在较快的时间尺度上假设固定索引值并更新 Q 学习。我们研究了具有常步长的两时标随机逼近算法。通过数值示例描述了我们算法的性能。示例表明，结合 UCB 的 Q 学习具有比 ε-贪婪策略更快的收敛速度。进一步而言，PhaseQL (结合 UCB 和 ε-贪婪策略) 是其他 Q 学习算法中收敛速度最好的。"
+    }
+]
