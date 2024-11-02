@@ -76,7 +76,7 @@ python daily_arxiv.py
 ## Modules 📑
 
 - **arxiv_daily_summary.py**: Retrieves and saves daily Arxiv papers in JSON format.
-- **arxiv_keywords_summary.py**: Searches and saves papers based on keywords【28†source】.
+- **arxiv_keywords_summary.py**: Searches and saves papers based on keywords.
 - **citations.py**: Retrieves citation counts using Google Scholar API.
 - **scraper.py**: Core data-fetching module for Arxiv.
 - **process.py**: Processes and formats paper summaries using language models.
