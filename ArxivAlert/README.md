@@ -75,12 +75,12 @@ python daily_arxiv.py
 
 ## Modules 📑
 
-- **arxiv_daily_summary.py**: Retrieves and saves daily Arxiv papers in JSON format【27†source】.
+- **arxiv_daily_summary.py**: Retrieves and saves daily Arxiv papers in JSON format.
 - **arxiv_keywords_summary.py**: Searches and saves papers based on keywords【28†source】.
-- **citations.py**: Retrieves citation counts using Google Scholar API【29†source】.
-- **scraper.py**: Core data-fetching module for Arxiv【35†source】.
-- **process.py**: Processes and formats paper summaries using language models【33†source】.
-- **template.py**: Contains prompt templates for generating summaries and translations【36†source】.
+- **citations.py**: Retrieves citation counts using Google Scholar API.
+- **scraper.py**: Core data-fetching module for Arxiv.
+- **process.py**: Processes and formats paper summaries using language models.
+- **template.py**: Contains prompt templates for generating summaries and translations.
 
 ## Example Output 🎉
 
@@ -97,7 +97,7 @@ Sample output for a daily paper summary:
 - **概述**: 本文研究了语言多样性在增强学习代理中的作用，发现在多样化语言反馈下代理更易适应新任务。
 - **摘要**: 本文提出一种新的实体代理学习方法，强调语言多样性在学习中的重要性...
 
----
+```
 
 ## Contribution 🎉
 We welcome feedback and contributions!
